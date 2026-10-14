@@ -1,0 +1,100 @@
+year,region,starts,src,prio
+2014,East Midlands,48060,since,1
+2015,East Midlands,48080,since,1
+2016,East Midlands,47540,since,1
+2017,East Midlands,33690,since,1
+2018,East Midlands,35910,since,1
+2019,East Midlands,28560,since,1
+2020,East Midlands,28080,curgeo,2
+2021,East Midlands,31520,curgeo,2
+2022,East Midlands,30470,curgeo,2
+2023,East Midlands,30040,curgeo,2
+2024,East Midlands,30900,curgeo,2
+2014,East of England,45790,since,1
+2015,East of England,46650,since,1
+2016,East of England,44950,since,1
+2017,East of England,36700,since,1
+2018,East of England,38260,since,1
+2019,East of England,32330,since,1
+2020,East of England,31800,curgeo,2
+2021,East of England,34860,curgeo,2
+2022,East of England,33590,curgeo,2
+2023,East of England,34540,curgeo,2
+2024,East of England,37010,curgeo,2
+2014,London,45550,since,1
+2015,London,46280,since,1
+2016,London,44380,since,1
+2017,London,36830,since,1
+2018,London,40750,since,1
+2019,London,33890,since,1
+2020,London,36930,curgeo,2
+2021,London,37790,curgeo,2
+2022,London,36120,curgeo,2
+2023,London,37700,curgeo,2
+2024,London,40380,curgeo,2
+2014,North East,35220,since,1
+2015,North East,38210,since,1
+2016,North East,33940,since,1
+2017,North East,22640,since,1
+2018,North East,23260,since,1
+2019,North East,18010,since,1
+2020,North East,17310,curgeo,2
+2021,North East,19700,curgeo,2
+2022,North East,18450,curgeo,2
+2023,North East,18710,curgeo,2
+2024,North East,18580,curgeo,2
+2014,North West,79310,since,1
+2015,North West,80820,since,1
+2016,North West,79720,since,1
+2017,North West,58120,since,1
+2018,North West,58280,since,1
+2019,North West,46950,since,1
+2020,North West,45860,curgeo,2
+2021,North West,50370,curgeo,2
+2022,North West,48690,curgeo,2
+2023,North West,49320,curgeo,2
+2024,North West,50580,curgeo,2
+2014,South East,65030,since,1
+2015,South East,65290,since,1
+2016,South East,63590,since,1
+2017,South East,52550,since,1
+2018,South East,56320,since,1
+2019,South East,47820,since,1
+2020,South East,49020,curgeo,2
+2021,South East,53070,curgeo,2
+2022,South East,51630,curgeo,2
+2023,South East,52510,curgeo,2
+2024,South East,55260,curgeo,2
+2014,South West,51480,since,1
+2015,South West,54160,since,1
+2016,South West,53550,since,1
+2017,South West,43430,since,1
+2018,South West,43920,since,1
+2019,South West,37090,since,1
+2020,South West,36430,curgeo,2
+2021,South West,39900,curgeo,2
+2022,South West,37970,curgeo,2
+2023,South West,37670,curgeo,2
+2024,South West,39790,curgeo,2
+2014,West Midlands,61240,since,1
+2015,West Midlands,60910,since,1
+2016,West Midlands,60330,since,1
+2017,West Midlands,42650,since,1
+2018,West Midlands,45670,since,1
+2019,West Midlands,36920,since,1
+2020,West Midlands,36130,curgeo,2
+2021,West Midlands,38860,curgeo,2
+2022,West Midlands,37970,curgeo,2
+2023,West Midlands,37520,curgeo,2
+2024,West Midlands,38720,curgeo,2
+2014,Yorkshire and The Humber,62550,since,1
+2015,Yorkshire and The Humber,63520,since,1
+2016,Yorkshire and The Humber,61150,since,1
+2017,Yorkshire and The Humber,44580,since,1
+2018,Yorkshire and The Humber,47260,since,1
+2019,Yorkshire and The Humber,37730,since,1
+2020,Yorkshire and The Humber,36520,curgeo,2
+2021,Yorkshire and The Humber,39670,curgeo,2
+2022,Yorkshire and The Humber,38340,curgeo,2
+2023,Yorkshire and The Humber,37730,curgeo,2
+2024,Yorkshire and The Humber,38490,curgeo,2

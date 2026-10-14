@@ -1,0 +1,364 @@
+year,imd,level,age,starts,src,prio,share
+2014,Q1 most deprived,Advanced Apprenticeship,Total,42030,rel1920,1,23.402004454343
+2014,Q1 most deprived,Higher Apprenticeship,Total,4410,rel1920,1,22.5575447570333
+2014,Q1 most deprived,Intermediate Apprenticeship,Total,81840,rel1920,1,27.7423728813559
+2014,Q1 most deprived,Unknown,Total,,rel1920,1,
+2014,Q2,Advanced Apprenticeship,Total,38640,rel1920,1,21.5144766146993
+2014,Q2,Higher Apprenticeship,Total,4300,rel1920,1,21.9948849104859
+2014,Q2,Intermediate Apprenticeship,Total,66790,rel1920,1,22.6406779661017
+2014,Q2,Unknown,Total,10,rel1920,1,
+2014,Q3,Advanced Apprenticeship,Total,35240,rel1920,1,19.6213808463252
+2014,Q3,Higher Apprenticeship,Total,3930,rel1920,1,20.1023017902813
+2014,Q3,Intermediate Apprenticeship,Total,56370,rel1920,1,19.1084745762712
+2014,Q3,Unknown,Total,20,rel1920,1,
+2014,Q4,Advanced Apprenticeship,Total,34170,rel1920,1,19.0256124721604
+2014,Q4,Higher Apprenticeship,Total,3710,rel1920,1,18.9769820971867
+2014,Q4,Intermediate Apprenticeship,Total,52800,rel1920,1,17.8983050847458
+2014,Q4,Unknown,Total,20,rel1920,1,
+2014,Q5 least deprived,Advanced Apprenticeship,Total,29520,rel1920,1,16.4365256124722
+2014,Q5 least deprived,Higher Apprenticeship,Total,3200,rel1920,1,16.3682864450128
+2014,Q5 least deprived,Intermediate Apprenticeship,Total,37200,rel1920,1,12.6101694915254
+2014,Q5 least deprived,Unknown,Total,30,rel1920,1,
+2015,Q1 most deprived,Advanced Apprenticeship,Total,44240,rel1920,1,23.463272341554
+2015,Q1 most deprived,Higher Apprenticeship,Total,5870,rel1920,1,21.8866517524236
+2015,Q1 most deprived,Intermediate Apprenticeship,Total,82200,rel1920,1,28.5545558759162
+2015,Q2,Advanced Apprenticeship,Total,41230,rel1920,1,21.8668788119862
+2015,Q2,Higher Apprenticeship,Total,5880,rel1920,1,21.923937360179
+2015,Q2,Intermediate Apprenticeship,Total,65130,rel1920,1,22.6247959148227
+2015,Q2,Unknown,Total,,rel1920,1,
+2015,Q3,Advanced Apprenticeship,Total,37410,rel1920,1,19.8408910103421
+2015,Q3,Higher Apprenticeship,Total,5520,rel1920,1,20.5816554809843
+2015,Q3,Intermediate Apprenticeship,Total,55040,rel1920,1,19.1197415500052
+2015,Q4,Advanced Apprenticeship,Total,35890,rel1920,1,19.0347387960753
+2015,Q4,Higher Apprenticeship,Total,5020,rel1920,1,18.717375093214
+2015,Q4,Intermediate Apprenticeship,Total,49760,rel1920,1,17.2855802966617
+2015,Q5 least deprived,Advanced Apprenticeship,Total,29780,rel1920,1,15.7942190400424
+2015,Q5 least deprived,Higher Apprenticeship,Total,4530,rel1920,1,16.8903803131991
+2015,Q5 least deprived,Intermediate Apprenticeship,Total,35740,rel1920,1,12.4153263625942
+2016,Q1 most deprived,Advanced Apprenticeship,Total,46670,rel1920,1,23.8672394395009
+2016,Q1 most deprived,Higher Apprenticeship,Total,7850,rel1920,1,21.7331118493909
+2016,Q1 most deprived,Intermediate Apprenticeship,Total,73260,rel1920,1,28.4504854368932
+2016,Q1 most deprived,Unknown,Total,0,rel1920,1,
+2016,Q2,Advanced Apprenticeship,Total,42720,rel1920,1,21.8471923903038
+2016,Q2,Higher Apprenticeship,Total,8040,rel1920,1,22.2591362126246
+2016,Q2,Intermediate Apprenticeship,Total,57780,rel1920,1,22.4388349514563
+2016,Q2,Unknown,Total,0,rel1920,1,
+2016,Q3,Advanced Apprenticeship,Total,38520,rel1920,1,19.6992942620436
+2016,Q3,Higher Apprenticeship,Total,7440,rel1920,1,20.5980066445183
+2016,Q3,Intermediate Apprenticeship,Total,50960,rel1920,1,19.7902912621359
+2016,Q3,Unknown,Total,0,rel1920,1,
+2016,Q4,Advanced Apprenticeship,Total,36910,rel1920,1,18.8759333128772
+2016,Q4,Higher Apprenticeship,Total,6830,rel1920,1,18.9091915836102
+2016,Q4,Intermediate Apprenticeship,Total,43000,rel1920,1,16.6990291262136
+2016,Q4,Unknown,Total,0,rel1920,1,
+2016,Q5 least deprived,Advanced Apprenticeship,Total,30720,rel1920,1,15.7103405952746
+2016,Q5 least deprived,Higher Apprenticeship,Total,5960,rel1920,1,16.500553709856
+2016,Q5 least deprived,Intermediate Apprenticeship,Total,32500,rel1920,1,12.621359223301
+2017,Q1 most deprived,Advanced Apprenticeship,Total,34920,rel1920,1,21.2512171372931
+2017,Q1 most deprived,Higher Apprenticeship,Total,8050,rel1920,1,17.0010559662091
+2017,Q1 most deprived,Intermediate Apprenticeship,Total,40840,rel1920,1,25.5969915387026
+2017,Q1 most deprived,Level 2,Total,40840,rel2223,2,25.5969915387026
+2017,Q1 most deprived,Level 3,Total,34920,rel2223,2,21.2512171372931
+2017,Q1 most deprived,Level 4,Total,2670,rel2223,2,16.2112932604736
+2017,Q1 most deprived,Level 5,Total,3970,rel2223,2,19.6243203163618
+2017,Q1 most deprived,Level 6,Total,860,rel2223,2,13.8486312399356
+2017,Q1 most deprived,Level 7,Total,540,rel2223,2,12.1896162528217
+2017,Q1 most deprived,Level Unknown,Total,,rel2223,2,
+2017,Q1 most deprived,Unknown,Total,0,rel1920,1,
+2017,Q2,Advanced Apprenticeship,Total,34490,rel1920,1,20.9895326192795
+2017,Q2,Higher Apprenticeship,Total,9590,rel1920,1,20.2534318901795
+2017,Q2,Intermediate Apprenticeship,Total,33590,rel1920,1,21.0529614540896
+2017,Q2,Level 2,Total,33590,rel2223,2,21.0529614540896
+2017,Q2,Level 3,Total,34490,rel2223,2,20.9895326192795
+2017,Q2,Level 4,Total,3240,rel2223,2,19.672131147541
+2017,Q2,Level 5,Total,4400,rel2223,2,21.7498764211567
+2017,Q2,Level 6,Total,1120,rel2223,2,18.0354267310789
+2017,Q2,Level 7,Total,840,rel2223,2,18.961625282167
+2017,Q2,Level Unknown,Total,,rel2223,2,
+2017,Q2,Unknown,Total,0,rel1920,1,
+2017,Q3,Advanced Apprenticeship,Total,32990,rel1920,1,20.0766796494645
+2017,Q3,Higher Apprenticeship,Total,9750,rel1920,1,20.5913410770855
+2017,Q3,Intermediate Apprenticeship,Total,33170,rel1920,1,20.7897210905672
+2017,Q3,Level 2,Total,33170,rel2223,2,20.7897210905672
+2017,Q3,Level 3,Total,32990,rel2223,2,20.0766796494645
+2017,Q3,Level 4,Total,3340,rel2223,2,20.2792956891318
+2017,Q3,Level 5,Total,4290,rel2223,2,21.2061295106278
+2017,Q3,Level 6,Total,1240,rel2223,2,19.9677938808374
+2017,Q3,Level 7,Total,880,rel2223,2,19.8645598194131
+2017,Q3,Level Unknown,Total,,rel2223,2,
+2017,Q3,Unknown,Total,0,rel1920,1,
+2017,Q4,Advanced Apprenticeship,Total,33550,rel1920,1,20.4174780915287
+2017,Q4,Higher Apprenticeship,Total,9740,rel1920,1,20.5702217529039
+2017,Q4,Intermediate Apprenticeship,Total,29130,rel1920,1,18.2575994985898
+2017,Q4,Level 2,Total,29130,rel2223,2,18.2575994985898
+2017,Q4,Level 3,Total,33550,rel2223,2,20.4174780915287
+2017,Q4,Level 4,Total,3440,rel2223,2,20.8864602307225
+2017,Q4,Level 5,Total,3950,rel2223,2,19.5254572417202
+2017,Q4,Level 6,Total,1360,rel2223,2,21.9001610305958
+2017,Q4,Level 7,Total,980,rel2223,2,22.1218961625282
+2017,Q4,Level Unknown,Total,,rel2223,2,
+2017,Q4,Unknown,Total,0,rel1920,1,
+2017,Q5 least deprived,Advanced Apprenticeship,Total,28370,rel1920,1,17.2650925024343
+2017,Q5 least deprived,Higher Apprenticeship,Total,10220,rel1920,1,21.583949313622
+2017,Q5 least deprived,Intermediate Apprenticeship,Total,22820,rel1920,1,14.3027264180508
+2017,Q5 least deprived,Level 2,Total,22820,rel2223,2,14.3027264180508
+2017,Q5 least deprived,Level 3,Total,28370,rel2223,2,17.2650925024343
+2017,Q5 least deprived,Level 4,Total,3780,rel2223,2,22.9508196721311
+2017,Q5 least deprived,Level 5,Total,3620,rel2223,2,17.8942165101335
+2017,Q5 least deprived,Level 6,Total,1630,rel2223,2,26.2479871175523
+2017,Q5 least deprived,Level 7,Total,1190,rel2223,2,26.86230248307
+2018,Q1 most deprived,Advanced Apprenticeship,Total,37080,rel1920,1,21.4260949959552
+2018,Q1 most deprived,Higher Apprenticeship,Total,12190,rel1920,1,16.4529626130382
+2018,Q1 most deprived,Intermediate Apprenticeship,Total,36620,rel1920,1,25.7036569102267
+2018,Q1 most deprived,Level 2,Total,36620,rel2223,2,25.7036569102267
+2018,Q1 most deprived,Level 3,Total,37080,rel2223,2,21.4260949959552
+2018,Q1 most deprived,Level 4,Total,4050,rel2223,2,16.4300202839757
+2018,Q1 most deprived,Level 5,Total,5350,rel2223,2,19.6186285295196
+2018,Q1 most deprived,Level 6,Total,1520,rel2223,2,14.2589118198874
+2018,Q1 most deprived,Level 7,Total,1260,rel2223,2,10.9565217391304
+2018,Q2,Advanced Apprenticeship,Total,36640,rel1920,1,21.1718479140183
+2018,Q2,Higher Apprenticeship,Total,15010,rel1920,1,20.2591442839789
+2018,Q2,Intermediate Apprenticeship,Total,29940,rel1920,1,21.0149505158981
+2018,Q2,Level 2,Total,29940,rel2223,2,21.0149505158981
+2018,Q2,Level 3,Total,36640,rel2223,2,21.1718479140183
+2018,Q2,Level 4,Total,5030,rel2223,2,20.4056795131846
+2018,Q2,Level 5,Total,6000,rel2223,2,22.002200220022
+2018,Q2,Level 6,Total,1910,rel2223,2,17.9174484052533
+2018,Q2,Level 7,Total,2080,rel2223,2,18.0869565217391
+2018,Q3,Advanced Apprenticeship,Total,34650,rel1920,1,20.0219577025309
+2018,Q3,Higher Apprenticeship,Total,15270,rel1920,1,20.6100688352004
+2018,Q3,Intermediate Apprenticeship,Total,29560,rel1920,1,20.748227697059
+2018,Q3,Level 2,Total,29560,rel2223,2,20.748227697059
+2018,Q3,Level 3,Total,34650,rel2223,2,20.0219577025309
+2018,Q3,Level 4,Total,5080,rel2223,2,20.6085192697769
+2018,Q3,Level 5,Total,5730,rel2223,2,21.012101210121
+2018,Q3,Level 6,Total,2120,rel2223,2,19.8874296435272
+2018,Q3,Level 7,Total,2340,rel2223,2,20.3478260869565
+2018,Q4,Advanced Apprenticeship,Total,34790,rel1920,1,20.102854501329
+2018,Q4,Higher Apprenticeship,Total,15500,rel1920,1,20.9205020920502
+2018,Q4,Intermediate Apprenticeship,Total,25880,rel1920,1,18.1652277672492
+2018,Q4,Level 2,Total,25880,rel2223,2,18.1652277672492
+2018,Q4,Level 3,Total,34790,rel2223,2,20.102854501329
+2018,Q4,Level 4,Total,5100,rel2223,2,20.6896551724138
+2018,Q4,Level 5,Total,5400,rel2223,2,19.8019801980198
+2018,Q4,Level 6,Total,2360,rel2223,2,22.1388367729831
+2018,Q4,Level 7,Total,2640,rel2223,2,22.9565217391304
+2018,Q5 least deprived,Advanced Apprenticeship,Total,29900,rel1920,1,17.2772448861667
+2018,Q5 least deprived,Higher Apprenticeship,Total,16120,rel1920,1,21.7573221757322
+2018,Q5 least deprived,Intermediate Apprenticeship,Total,20470,rel1920,1,14.3679371095669
+2018,Q5 least deprived,Level 2,Total,20470,rel2223,2,14.3679371095669
+2018,Q5 least deprived,Level 3,Total,29900,rel2223,2,17.2772448861667
+2018,Q5 least deprived,Level 4,Total,5390,rel2223,2,21.8661257606491
+2018,Q5 least deprived,Level 5,Total,4790,rel2223,2,17.5650898423176
+2018,Q5 least deprived,Level 6,Total,2750,rel2223,2,25.797373358349
+2018,Q5 least deprived,Level 7,Total,3180,rel2223,2,27.6521739130435
+2019,Q1 most deprived,Advanced Apprenticeship,Total,29760,rel1920,1,21.3578297689106
+2019,Q1 most deprived,Higher Apprenticeship,Total,12770,rel1920,1,15.6783302639656
+2019,Q1 most deprived,Intermediate Apprenticeship,Total,23770,rel1920,1,24.1270807957775
+2019,Q1 most deprived,Level 2,Total,23770,rel2223,2,24.1270807957775
+2019,Q1 most deprived,Level 3,Total,29760,rel2223,2,21.3578297689106
+2019,Q1 most deprived,Level 4,Total,4210,rel2223,2,16.0809778456837
+2019,Q1 most deprived,Level 5,Total,5050,rel2223,2,19.9762658227848
+2019,Q1 most deprived,Level 6,Total,1920,rel2223,2,12.972972972973
+2019,Q1 most deprived,Level 7,Total,1590,rel2223,2,10.4743083003953
+2019,Q2,Advanced Apprenticeship,Total,29000,rel1920,1,20.812401320511
+2019,Q2,Higher Apprenticeship,Total,16090,rel1920,1,19.7544505831799
+2019,Q2,Intermediate Apprenticeship,Total,19640,rel1920,1,19.9350385708486
+2019,Q2,Level 2,Total,19640,rel2223,2,19.9350385708486
+2019,Q2,Level 3,Total,29000,rel2223,2,20.812401320511
+2019,Q2,Level 4,Total,5170,rel2223,2,19.7478991596639
+2019,Q2,Level 5,Total,5430,rel2223,2,21.4794303797468
+2019,Q2,Level 6,Total,2780,rel2223,2,18.7837837837838
+2019,Q2,Level 7,Total,2710,rel2223,2,17.8524374176548
+2019,Q3,Advanced Apprenticeship,Total,28280,rel1920,1,20.2956796325535
+2019,Q3,Higher Apprenticeship,Total,16900,rel1920,1,20.7489257213014
+2019,Q3,Intermediate Apprenticeship,Total,20950,rel1920,1,21.2647178237921
+2019,Q3,Level 2,Total,20950,rel2223,2,21.2647178237921
+2019,Q3,Level 3,Total,28280,rel2223,2,20.2956796325535
+2019,Q3,Level 4,Total,5420,rel2223,2,20.7028265851795
+2019,Q3,Level 5,Total,5230,rel2223,2,20.6882911392405
+2019,Q3,Level 6,Total,3100,rel2223,2,20.9459459459459
+2019,Q3,Level 7,Total,3140,rel2223,2,20.6851119894598
+2019,Q4,Advanced Apprenticeship,Total,27410,rel1920,1,19.6713075929381
+2019,Q4,Higher Apprenticeship,Total,17790,rel1920,1,21.841620626151
+2019,Q4,Intermediate Apprenticeship,Total,18910,rel1920,1,19.1940722695899
+2019,Q4,Level 2,Total,18910,rel2223,2,19.1940722695899
+2019,Q4,Level 3,Total,27410,rel2223,2,19.6713075929381
+2019,Q4,Level 4,Total,5700,rel2223,2,21.7723453017571
+2019,Q4,Level 5,Total,5140,rel2223,2,20.3322784810127
+2019,Q4,Level 6,Total,3370,rel2223,2,22.7702702702703
+2019,Q4,Level 7,Total,3580,rel2223,2,23.5836627140975
+2019,Q5 least deprived,Advanced Apprenticeship,Total,24890,rel1920,1,17.8627816850868
+2019,Q5 least deprived,Higher Apprenticeship,Total,17900,rel1920,1,21.9766728054021
+2019,Q5 least deprived,Intermediate Apprenticeship,Total,15250,rel1920,1,15.4790905399919
+2019,Q5 least deprived,Level 2,Total,15250,rel2223,2,15.4790905399919
+2019,Q5 least deprived,Level 3,Total,24890,rel2223,2,17.8627816850868
+2019,Q5 least deprived,Level 4,Total,5680,rel2223,2,21.6959511077158
+2019,Q5 least deprived,Level 5,Total,4430,rel2223,2,17.5237341772152
+2019,Q5 least deprived,Level 6,Total,3630,rel2223,2,24.527027027027
+2019,Q5 least deprived,Level 7,Total,4160,rel2223,2,27.4044795783926
+2020,Q1 most deprived,Advanced Apprenticeship,Total,28660,cur,3,20.9166545029923
+2020,Q1 most deprived,Higher Apprenticeship,Total,1900,cur,3,9.88039521580863
+2020,Q1 most deprived,Intermediate Apprenticeship,Total,19910,cur,3,23.8528812747095
+2020,Q1 most deprived,Level 2,Total,19910,rel2223,2,23.8528812747095
+2020,Q1 most deprived,Level 3,Total,28660,rel2223,2,20.9166545029923
+2020,Q1 most deprived,Level 4,Total,5380,rel2223,2,17.0307059195948
+2020,Q1 most deprived,Level 5,Total,5000,rel2223,2,18.2949140139041
+2020,Q1 most deprived,Level 6,Total,2870,rel2223,2,14.7709727225939
+2020,Q1 most deprived,Level 7,Total,1900,rel2223,2,9.88039521580863
+2020,Q2,Advanced Apprenticeship,Total,29080,cur,3,21.2231790979419
+2020,Q2,Higher Apprenticeship,Total,3370,cur,3,17.5247009880395
+2020,Q2,Intermediate Apprenticeship,Total,17160,cur,3,20.5582844135618
+2020,Q2,Level 2,Total,17160,rel2223,2,20.5582844135618
+2020,Q2,Level 3,Total,29080,rel2223,2,21.2231790979419
+2020,Q2,Level 4,Total,6490,rel2223,2,20.5444761000317
+2020,Q2,Level 5,Total,5800,rel2223,2,21.2221002561288
+2020,Q2,Level 6,Total,3760,rel2223,2,19.3515182707154
+2020,Q2,Level 7,Total,3370,rel2223,2,17.5247009880395
+2020,Q3,Advanced Apprenticeship,Total,27610,cur,3,20.1503430156182
+2020,Q3,Higher Apprenticeship,Total,4150,cur,3,21.5808632345294
+2020,Q3,Intermediate Apprenticeship,Total,17490,cur,3,20.9536360368995
+2020,Q3,Level 2,Total,17490,rel2223,2,20.9536360368995
+2020,Q3,Level 3,Total,27610,rel2223,2,20.1503430156182
+2020,Q3,Level 4,Total,6460,rel2223,2,20.4495093383982
+2020,Q3,Level 5,Total,5770,rel2223,2,21.1123307720454
+2020,Q3,Level 6,Total,4060,rel2223,2,20.8955223880597
+2020,Q3,Level 7,Total,4150,rel2223,2,21.5808632345294
+2020,Q4,Advanced Apprenticeship,Total,27260,cur,3,19.8949058531601
+2020,Q4,Higher Apprenticeship,Total,4530,cur,3,23.5569422776911
+2020,Q4,Intermediate Apprenticeship,Total,15990,cur,3,19.1565832035462
+2020,Q4,Level 2,Total,15990,rel2223,2,19.1565832035462
+2020,Q4,Level 3,Total,27260,rel2223,2,19.8949058531601
+2020,Q4,Level 4,Total,6590,rel2223,2,20.8610319721431
+2020,Q4,Level 5,Total,5760,rel2223,2,21.0757409440176
+2020,Q4,Level 6,Total,4310,rel2223,2,22.1821924858466
+2020,Q4,Level 7,Total,4530,rel2223,2,23.5569422776911
+2020,Q5 least deprived,Advanced Apprenticeship,Total,24410,cur,3,17.8149175302875
+2020,Q5 least deprived,Higher Apprenticeship,Total,5280,cur,3,27.4570982839314
+2020,Q5 least deprived,Intermediate Apprenticeship,Total,12920,cur,3,15.4786150712831
+2020,Q5 least deprived,Level 2,Total,12920,rel2223,2,15.4786150712831
+2020,Q5 least deprived,Level 3,Total,24410,rel2223,2,17.8149175302875
+2020,Q5 least deprived,Level 4,Total,6670,rel2223,2,21.1142766698322
+2020,Q5 least deprived,Level 5,Total,5000,rel2223,2,18.2949140139041
+2020,Q5 least deprived,Level 6,Total,4430,rel2223,2,22.7997941327844
+2020,Q5 least deprived,Level 7,Total,5280,rel2223,2,27.4570982839314
+2021,Q1 most deprived,Advanced Apprenticeship,Total,32160,cur,3,21.4528717230338
+2021,Q1 most deprived,Higher Apprenticeship,Total,2320,cur,3,11.9896640826873
+2021,Q1 most deprived,Intermediate Apprenticeship,Total,22320,cur,3,24.5869134170522
+2021,Q1 most deprived,Level 2,Total,22320,rel2223,2,24.5869134170522
+2021,Q1 most deprived,Level 3,Total,32160,rel2223,2,21.4528717230338
+2021,Q1 most deprived,Level 4,Total,6310,rel2223,2,17.8349349915206
+2021,Q1 most deprived,Level 5,Total,5170,rel2223,2,19.1268960414354
+2021,Q1 most deprived,Level 6,Total,3560,rel2223,2,15.2855302705024
+2021,Q1 most deprived,Level 7,Total,2320,rel2223,2,11.9896640826873
+2021,Q2,Advanced Apprenticeship,Total,31510,cur,3,21.0192782336068
+2021,Q2,Higher Apprenticeship,Total,3570,cur,3,18.4496124031008
+2021,Q2,Intermediate Apprenticeship,Total,18830,cur,3,20.7424542850848
+2021,Q2,Level 2,Total,18830,rel2223,2,20.7424542850848
+2021,Q2,Level 3,Total,31510,rel2223,2,21.0192782336068
+2021,Q2,Level 4,Total,7320,rel2223,2,20.6896551724138
+2021,Q2,Level 5,Total,5790,rel2223,2,21.4206437291898
+2021,Q2,Level 6,Total,4440,rel2223,2,19.0639759553456
+2021,Q2,Level 7,Total,3570,rel2223,2,18.4496124031008
+2021,Q3,Advanced Apprenticeship,Total,30580,cur,3,20.3989060102728
+2021,Q3,Higher Apprenticeship,Total,4060,cur,3,20.9819121447028
+2021,Q3,Intermediate Apprenticeship,Total,18660,cur,3,20.5551883674818
+2021,Q3,Level 2,Total,18660,rel2223,2,20.5551883674818
+2021,Q3,Level 3,Total,30580,rel2223,2,20.3989060102728
+2021,Q3,Level 4,Total,7300,rel2223,2,20.6331260599209
+2021,Q3,Level 5,Total,5650,rel2223,2,20.9027007029227
+2021,Q3,Level 6,Total,4890,rel2223,2,20.9961356805496
+2021,Q3,Level 7,Total,4060,rel2223,2,20.9819121447028
+2021,Q4,Advanced Apprenticeship,Total,29950,cur,3,19.9786538589821
+2021,Q4,Higher Apprenticeship,Total,4440,cur,3,22.9457364341085
+2021,Q4,Intermediate Apprenticeship,Total,17360,cur,3,19.1231548799295
+2021,Q4,Level 2,Total,17360,rel2223,2,19.1231548799295
+2021,Q4,Level 3,Total,29950,rel2223,2,19.9786538589821
+2021,Q4,Level 4,Total,7270,rel2223,2,20.5483323911815
+2021,Q4,Level 5,Total,5540,rel2223,2,20.4957454679985
+2021,Q4,Level 6,Total,5130,rel2223,2,22.026620867325
+2021,Q4,Level 7,Total,4440,rel2223,2,22.9457364341085
+2021,Q5 least deprived,Advanced Apprenticeship,Total,25710,cur,3,17.1502901741045
+2021,Q5 least deprived,Higher Apprenticeship,Total,4960,cur,3,25.6330749354005
+2021,Q5 least deprived,Intermediate Apprenticeship,Total,13610,cur,3,14.9922890504516
+2021,Q5 least deprived,Level 2,Total,13610,rel2223,2,14.9922890504516
+2021,Q5 least deprived,Level 3,Total,25710,rel2223,2,17.1502901741045
+2021,Q5 least deprived,Level 4,Total,7180,rel2223,2,20.2939513849633
+2021,Q5 least deprived,Level 5,Total,4880,rel2223,2,18.0540140584536
+2021,Q5 least deprived,Level 6,Total,5270,rel2223,2,22.6277372262774
+2021,Q5 least deprived,Level 7,Total,4960,rel2223,2,25.6330749354005
+2022,Q1 most deprived,Advanced Apprenticeship,Total,31320,cur,3,21.4256396223834
+2022,Q1 most deprived,Higher Apprenticeship,Total,2640,cur,3,12.330686595049
+2022,Q1 most deprived,Intermediate Apprenticeship,Total,18620,cur,3,24.6296296296296
+2022,Q1 most deprived,Level 2,Total,18620,rel2223,2,24.6296296296296
+2022,Q1 most deprived,Level 3,Total,31320,rel2223,2,21.4256396223834
+2022,Q1 most deprived,Level 4,Total,6990,rel2223,2,18.7651006711409
+2022,Q1 most deprived,Level 5,Total,5480,rel2223,2,19.5295794725588
+2022,Q1 most deprived,Level 6,Total,3830,rel2223,2,15.4810024252223
+2022,Q1 most deprived,Level 7,Total,2640,rel2223,2,12.330686595049
+2022,Q2,Advanced Apprenticeship,Total,30290,cur,3,20.7210288685183
+2022,Q2,Higher Apprenticeship,Total,4050,cur,3,18.9163942083139
+2022,Q2,Intermediate Apprenticeship,Total,15310,cur,3,20.2513227513228
+2022,Q2,Level 2,Total,15310,rel2223,2,20.2513227513228
+2022,Q2,Level 3,Total,30290,rel2223,2,20.7210288685183
+2022,Q2,Level 4,Total,7520,rel2223,2,20.1879194630873
+2022,Q2,Level 5,Total,5860,rel2223,2,20.8838203848895
+2022,Q2,Level 6,Total,4820,rel2223,2,19.482619240097
+2022,Q2,Level 7,Total,4050,rel2223,2,18.9163942083139
+2022,Q3,Advanced Apprenticeship,Total,29640,cur,3,20.2763715966617
+2022,Q3,Higher Apprenticeship,Total,4490,cur,3,20.971508640822
+2022,Q3,Intermediate Apprenticeship,Total,15450,cur,3,20.4365079365079
+2022,Q3,Level 2,Total,15450,rel2223,2,20.4365079365079
+2022,Q3,Level 3,Total,29640,rel2223,2,20.2763715966617
+2022,Q3,Level 4,Total,7520,rel2223,2,20.1879194630873
+2022,Q3,Level 5,Total,5990,rel2223,2,21.3471133285816
+2022,Q3,Level 6,Total,5300,rel2223,2,21.4227970897332
+2022,Q3,Level 7,Total,4490,rel2223,2,20.971508640822
+2022,Q4,Advanced Apprenticeship,Total,29450,cur,3,20.1463948556574
+2022,Q4,Higher Apprenticeship,Total,4850,cur,3,22.6529659037833
+2022,Q4,Intermediate Apprenticeship,Total,14780,cur,3,19.5502645502646
+2022,Q4,Level 2,Total,14780,rel2223,2,19.5502645502646
+2022,Q4,Level 3,Total,29450,rel2223,2,20.1463948556574
+2022,Q4,Level 4,Total,7710,rel2223,2,20.6979865771812
+2022,Q4,Level 5,Total,5780,rel2223,2,20.5987170349252
+2022,Q4,Level 6,Total,5390,rel2223,2,21.78658043654
+2022,Q4,Level 7,Total,4850,rel2223,2,22.6529659037833
+2022,Q5 least deprived,Advanced Apprenticeship,Total,25480,cur,3,17.4305650567793
+2022,Q5 least deprived,Higher Apprenticeship,Total,5380,cur,3,25.1284446520318
+2022,Q5 least deprived,Intermediate Apprenticeship,Total,11440,cur,3,15.1322751322751
+2022,Q5 least deprived,Level 2,Total,11440,rel2223,2,15.1322751322751
+2022,Q5 least deprived,Level 3,Total,25480,rel2223,2,17.4305650567793
+2022,Q5 least deprived,Level 4,Total,7510,rel2223,2,20.1610738255034
+2022,Q5 least deprived,Level 5,Total,4950,rel2223,2,17.6407697790449
+2022,Q5 least deprived,Level 6,Total,5400,rel2223,2,21.8270008084074
+2022,Q5 least deprived,Level 7,Total,5380,rel2223,2,25.1284446520318
+2023,Q1 most deprived,Advanced Apprenticeship,Total,30820,cur,3,21.2815909404778
+2023,Q1 most deprived,Higher Apprenticeship,Total,2770,cur,3,11.7822203317737
+2023,Q1 most deprived,Intermediate Apprenticeship,Total,16830,cur,3,23.9266420244527
+2023,Q2,Advanced Apprenticeship,Total,29770,cur,3,20.556552962298
+2023,Q2,Higher Apprenticeship,Total,4400,cur,3,18.7154402381965
+2023,Q2,Intermediate Apprenticeship,Total,14130,cur,3,20.0881433039522
+2023,Q3,Advanced Apprenticeship,Total,29200,cur,3,20.1629609170004
+2023,Q3,Higher Apprenticeship,Total,5000,cur,3,21.2675457252233
+2023,Q3,Intermediate Apprenticeship,Total,14620,cur,3,20.7847597384134
+2023,Q4,Advanced Apprenticeship,Total,29440,cur,3,20.3286838834415
+2023,Q4,Higher Apprenticeship,Total,5330,cur,3,22.671203743088
+2023,Q4,Intermediate Apprenticeship,Total,13950,cur,3,19.8322433892522
+2023,Q5 least deprived,Advanced Apprenticeship,Total,25590,cur,3,17.6702112967822
+2023,Q5 least deprived,Higher Apprenticeship,Total,6010,cur,3,25.5635899617184
+2023,Q5 least deprived,Intermediate Apprenticeship,Total,10810,cur,3,15.3682115439295
+2024,Q1 most deprived,Advanced Apprenticeship,Total,30650,cur,3,21.0392641405821
+2024,Q1 most deprived,Higher Apprenticeship,Total,3840,cur,3,11.6328385337776
+2024,Q1 most deprived,Intermediate Apprenticeship,Total,15120,cur,3,23.1688630095005
+2024,Q2,Advanced Apprenticeship,Total,29970,cur,3,20.5724876441516
+2024,Q2,Higher Apprenticeship,Total,5940,cur,3,17.9945471069373
+2024,Q2,Intermediate Apprenticeship,Total,12730,cur,3,19.5065890285014
+2024,Q3,Advanced Apprenticeship,Total,29420,cur,3,20.1949478308622
+2024,Q3,Higher Apprenticeship,Total,6840,cur,3,20.7209936382914
+2024,Q3,Intermediate Apprenticeship,Total,13800,cur,3,21.146184492798
+2024,Q4,Advanced Apprenticeship,Total,29760,cur,3,20.4283360790774
+2024,Q4,Higher Apprenticeship,Total,7670,cur,3,23.2353832172069
+2024,Q4,Intermediate Apprenticeship,Total,13080,cur,3,20.0429053018694
+2024,Q5 least deprived,Advanced Apprenticeship,Total,25880,cur,3,17.7649643053267
+2024,Q5 least deprived,Higher Apprenticeship,Total,8720,cur,3,26.4162375037867
+2024,Q5 least deprived,Intermediate Apprenticeship,Total,10530,cur,3,16.1354581673307

@@ -1,0 +1,25 @@
+level,age_group,imd,leavers,achievement_rate,retention_rate
+Intermediate Level,Total,Total,64640,64,65.6
+Higher Level,Total,Total,103890,64.9,66.2
+Advanced Level,Total,Total,130990,66.4,67.7
+Advanced Level,Total,Q1,26960,63,64.3
+Higher Level,Total,Q1,16690,62.1,63.6
+Intermediate Level,Total,Q1,15230,60.3,62
+Intermediate Level,Total,Q2,12920,62.2,64
+Advanced Level,Total,Q2,26910,65,66.4
+Higher Level,Total,Q2,20300,63.5,64.9
+Higher Level,Total,Q3,21850,65.3,66.4
+Advanced Level,Total,Q3,26640,66.2,67.5
+Intermediate Level,Total,Q3,13690,65,66.6
+Intermediate Level,Total,Q4,12430,66.2,67.8
+Advanced Level,Total,Q4,26710,69.4,70.6
+Higher Level,Total,Q4,22410,66.4,67.6
+Advanced Level,Total,Q5,22910,69,70.2
+Intermediate Level,Total,Q5,10010,67.5,69.3
+Higher Level,Total,Q5,21760,66.8,68
+Total,Total,Total,299510,65.4,66.7
+Total,Total,Q1,58880,62,63.5
+Total,Total,Q2,60130,63.9,65.4
+Total,Total,Q3,62190,65.6,66.9
+Total,Total,Q4,61550,67.7,68.9
+Total,Total,Q5,54690,67.9,69.1

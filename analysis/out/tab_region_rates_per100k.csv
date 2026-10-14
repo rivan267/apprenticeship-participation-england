@@ -1,0 +1,81 @@
+year,region,rate,src
+2017,East Midlands,1132,rel2223
+2018,East Midlands,1204,rel2223
+2019,East Midlands,955,rel2223
+2020,East Midlands,928,curgeo
+2021,East Midlands,1036,curgeo
+2022,East Midlands,992,curgeo
+2023,East Midlands,965,curgeo
+2024,East Midlands,982,curgeo
+2017,East of England,971,rel2223
+2018,East of England,1012,rel2223
+2019,East of England,854,rel2223
+2020,East of England,820,curgeo
+2021,East of England,891,curgeo
+2022,East of England,855,curgeo
+2023,East of England,868,curgeo
+2024,East of England,919,curgeo
+2017,London,617,rel2223
+2018,London,678,rel2223
+2019,London,561,rel2223
+2020,London,605,curgeo
+2021,London,623,curgeo
+2022,London,592,curgeo
+2023,London,607,curgeo
+2024,London,643,curgeo
+2017,North East,1365,rel2223
+2018,North East,1401,rel2223
+2019,North East,1085,rel2223
+2020,North East,1060,curgeo
+2021,North East,1205,curgeo
+2022,North East,1112,curgeo
+2023,North East,1111,curgeo
+2024,North East,1089,curgeo
+2017,North West,1281,rel2223
+2018,North West,1283,rel2223
+2019,North West,1030,rel2223
+2020,North West,995,curgeo
+2021,North West,1086,curgeo
+2022,North West,1035,curgeo
+2023,North West,1033,curgeo
+2024,North West,1045,curgeo
+2017,Outside of England and unknown,,rel2223
+2018,Outside of England and unknown,,rel2223
+2019,Outside of England and unknown,,rel2223
+2020,Outside of England and unknown,,curgeo
+2021,Outside of England and unknown,,curgeo
+2022,Outside of England and unknown,,curgeo
+2023,Outside of England and unknown,,curgeo
+2024,Outside of England and unknown,,curgeo
+2017,South East,937,rel2223
+2018,South East,1003,rel2223
+2019,South East,851,rel2223
+2020,South East,858,curgeo
+2021,South East,922,curgeo
+2022,South East,891,curgeo
+2023,South East,893,curgeo
+2024,South East,929,curgeo
+2017,South West,1288,rel2223
+2018,South West,1299,rel2223
+2019,South West,1097,rel2223
+2020,South West,1060,curgeo
+2021,South West,1151,curgeo
+2022,South West,1086,curgeo
+2023,South West,1066,curgeo
+2024,South West,1115,curgeo
+2017,West Midlands,1173,rel2223
+2018,West Midlands,1251,rel2223
+2019,West Midlands,1009,rel2223
+2020,West Midlands,986,curgeo
+2021,West Midlands,1054,curgeo
+2022,West Midlands,1021,curgeo
+2023,West Midlands,994,curgeo
+2024,West Midlands,1012,curgeo
+2017,Yorkshire and The Humber,1308,rel2223
+2018,Yorkshire and The Humber,1383,rel2223
+2019,Yorkshire and The Humber,1103,rel2223
+2020,Yorkshire and The Humber,1071,curgeo
+2021,Yorkshire and The Humber,1161,curgeo
+2022,Yorkshire and The Humber,1111,curgeo
+2023,Yorkshire and The Humber,1079,curgeo
+2024,Yorkshire and The Humber,1089,curgeo

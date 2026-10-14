@@ -1,0 +1,85 @@
+characteristic,year_label,level,age,share,starts
+Female,2014/15,Total,19-24,49.1,78610
+Female,2014/15,Total,25+,61.5,131620
+Female,2014/15,Advanced,Total,55.4,100780
+Female,2014/15,Higher,Total,67,13260
+Female,2014/15,Intermediate,Total,50.5,150690
+Female,2014/15,Total,Total,53,264750
+Female,2014/15,Total,Under 19,43.3,54520
+Female,2016/17,Total,19-24,49.3,70150
+Female,2016/17,Total,25+,61.6,141610
+Female,2016/17,Advanced,Total,56.1,110840
+Female,2016/17,Higher,Total,62.8,22980
+Female,2016/17,Intermediate,Total,50.1,130530
+Female,2016/17,Total,Total,53.4,264350
+Female,2016/17,Total,Under 19,42.8,52590
+Female,2019/20,Total,19-24,43.1,41060
+Female,2019/20,Total,25+,57.2,86300
+Female,2019/20,Advanced,Total,49.4,69590
+Female,2019/20,Higher,Total,53,43750
+Female,2019/20,Intermediate,Total,44.4,44030
+Female,2019/20,Total,Total,48.8,157370
+Female,2019/20,Total,Under 19,39.3,30010
+Female,2024/25,Total,19-24,46.8,45490
+Female,2024/25,Total,25+,60,108840
+Female,2024/25,Advanced,Total,53.3,78460
+Female,2024/25,Higher,Total,56.1,78950
+Female,2024/25,Intermediate,Total,42.8,28090
+Female,2024/25,Total,Total,52.5,185500
+Female,2024/25,Total,Under 19,41.6,31170
+Ethnic minorities (excl. white minorities),2014/15,Total,19-24,9.5,15060
+Ethnic minorities (excl. white minorities),2014/15,Total,25+,13.4,28320
+Ethnic minorities (excl. white minorities),2014/15,Advanced,Total,10.4,18680
+Ethnic minorities (excl. white minorities),2014/15,Higher,Total,12.3,2400
+Ethnic minorities (excl. white minorities),2014/15,Intermediate,Total,10.9,32100
+Ethnic minorities (excl. white minorities),2014/15,Total,Total,10.7,53180
+Ethnic minorities (excl. white minorities),2014/15,Total,Under 19,7.9,9800
+Ethnic minorities (excl. white minorities),2016/17,Total,19-24,10.1,14150
+Ethnic minorities (excl. white minorities),2016/17,Total,25+,13.7,31060
+Ethnic minorities (excl. white minorities),2016/17,Advanced,Total,11.5,22420
+Ethnic minorities (excl. white minorities),2016/17,Higher,Total,15.2,5500
+Ethnic minorities (excl. white minorities),2016/17,Intermediate,Total,10.6,27390
+Ethnic minorities (excl. white minorities),2016/17,Total,Total,11.3,55310
+Ethnic minorities (excl. white minorities),2016/17,Total,Under 19,8.3,10100
+Ethnic minorities (excl. white minorities),2019/20,Total,19-24,13.8,12940
+Ethnic minorities (excl. white minorities),2019/20,Total,25+,15.9,23320
+Ethnic minorities (excl. white minorities),2019/20,Advanced,Total,12.7,17540
+Ethnic minorities (excl. white minorities),2019/20,Higher,Total,15.9,12760
+Ethnic minorities (excl. white minorities),2019/20,Intermediate,Total,12.1,11850
+Ethnic minorities (excl. white minorities),2019/20,Total,Total,13.3,42140
+Ethnic minorities (excl. white minorities),2019/20,Total,Under 19,7.8,5880
+Ethnic minorities (excl. white minorities),2024/25,Total,19-24,18.3,17540
+Ethnic minorities (excl. white minorities),2024/25,Total,25+,20.7,36900
+Ethnic minorities (excl. white minorities),2024/25,Advanced,Total,16.8,24320
+Ethnic minorities (excl. white minorities),2024/25,Higher,Total,20.7,28730
+Ethnic minorities (excl. white minorities),2024/25,Intermediate,Total,15.1,9830
+Ethnic minorities (excl. white minorities),2024/25,Total,Total,18,62880
+Ethnic minorities (excl. white minorities),2024/25,Total,Under 19,11.4,8440
+With LLDD,2014/15,Total,19-24,9.4,14790
+With LLDD,2014/15,Total,25+,7.4,15540
+With LLDD,2014/15,Advanced,Total,7.9,14140
+With LLDD,2014/15,Higher,Total,6.2,1210
+With LLDD,2014/15,Intermediate,Total,9.8,28750
+With LLDD,2014/15,Total,Total,8.9,44090
+With LLDD,2014/15,Total,Under 19,11.1,13770
+With LLDD,2016/17,Total,19-24,11,15500
+With LLDD,2016/17,Total,25+,8.9,20170
+With LLDD,2016/17,Advanced,Total,9.5,18530
+With LLDD,2016/17,Higher,Total,8.5,3040
+With LLDD,2016/17,Intermediate,Total,11.4,29360
+With LLDD,2016/17,Total,Total,10.4,50930
+With LLDD,2016/17,Total,Under 19,12.7,15250
+With LLDD,2019/20,Total,19-24,13.2,12370
+With LLDD,2019/20,Total,25+,10.5,15360
+With LLDD,2019/20,Advanced,Total,12.3,16890
+With LLDD,2019/20,Higher,Total,9,7160
+With LLDD,2019/20,Intermediate,Total,15.6,15200
+With LLDD,2019/20,Total,Total,12.5,39250
+With LLDD,2019/20,Total,Under 19,15.5,11520
+With LLDD,2024/25,Total,19-24,17.4,16230
+With LLDD,2024/25,Total,25+,15.1,26510
+With LLDD,2024/25,Advanced,Total,17.2,24220
+With LLDD,2024/25,Higher,Total,13.9,18850
+With LLDD,2024/25,Intermediate,Total,21.7,13730
+With LLDD,2024/25,Total,Total,16.7,56810
+With LLDD,2024/25,Total,Under 19,19.6,14070

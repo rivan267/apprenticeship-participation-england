@@ -1,0 +1,13 @@
+age_summary,apps_level,s0,s1,change,pct_of_total_change
+25+,Intermediate Apprenticeship,119110,17660,-101450,69.3
+19-24,Intermediate Apprenticeship,93570,18650,-74920,51.2
+Under 19,Intermediate Apprenticeship,85600,29370,-56230,38.4
+25+,Advanced Apprenticeship,80270,62450,-17820,12.2
+19-24,Advanced Apprenticeship,62390,46050,-16340,11.2
+Under 19,Advanced Apprenticeship,39110,38590,-520,0.4
+25+,Unknown,70,0,-70,0
+19-24,Unknown,10,0,-10,0
+Under 19,Unknown,0,0,0,0
+Under 19,Higher Apprenticeship,1140,7030,5890,-4
+19-24,Higher Apprenticeship,4220,32540,28320,-19.3
+25+,Higher Apprenticeship,14410,101160,86750,-59.3

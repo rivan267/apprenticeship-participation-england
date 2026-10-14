@@ -1,0 +1,128 @@
+age_summary values: 19-24 | 25+ | Total | Under 19 
+apps_level values: Advanced Apprenticeship | Higher Apprenticeship | Intermediate Apprenticeship | Total | Unknown 
+
+Total starts 2014/15-2024/25: 
+       year starts
+     <char>  <num>
+ 1: 2014/15 499890
+ 2: 2015/16 509360
+ 3: 2016/17 494880
+ 4: 2017/18 375760
+ 5: 2018/19 393380
+ 6: 2019/20 322530
+ 7: 2020/21 321440
+ 8: 2021/22 349190
+ 9: 2022/23 337140
+10: 2023/24 339580
+11: 2024/25 353500 
+
+Cell-sum vs published total by year (diff): 
+Key: <year>
+       year  cells  total  diff
+     <char>  <num>  <num> <num>
+ 1: 2014/15 499900 499890    10
+ 2: 2015/16 509370 509360    10
+ 3: 2016/17 494890 494880    10
+ 4: 2017/18 375760 375760     0
+ 5: 2018/19 393380 393380     0
+ 6: 2019/20 322530 322530     0
+ 7: 2020/21 321450 321440    10
+ 8: 2021/22 349190 349190     0
+ 9: 2022/23 337140 337140     0
+10: 2023/24 339580 339580     0
+11: 2024/25 353500 353500     0 
+
+RQ1 decomposition: cells sum -146400 vs total change -146390 
+
+RQ4 segmented regression (annual starts, knots 2017/18 & 2020/21): 
+         series slope_pre_levy  se_pre slope_change_levy se_levy
+         <char>          <num>   <num>             <num>   <num>
+1:        Total       -15633.5 15087.4          -36191.9 21393.4
+2:     Under 19        -1196.0  3383.6          -15909.9  4797.8
+3:        19-24       -11832.5  3994.6           -1820.5  5664.2
+4:          25+        -2606.1 10739.0          -18462.3 15227.5
+5: Intermediate       -29832.6 10243.6          -21730.2 14525.1
+6:     Advanced         6209.8  5018.8          -23166.8  7116.4
+7:       Higher         8027.3  2663.9            8662.7  3777.3
+   slope_change_covid se_covid slope_post_levy slope_post_covid    r2
+                <num>    <num>           <num>            <num> <num>
+1:            57904.3  12486.2        -51825.4           6078.9   0.9
+2:            17616.6   2800.2        -17105.9            510.7   1.0
+3:            13898.3   3305.9        -13653.0            245.3   1.0
+4:            26392.6   8887.5        -21068.3           5324.3   0.8
+5:            46735.3   8477.5        -51562.8          -4827.6   1.0
+6:            17726.0   4153.5        -16957.0            769.1   0.9
+7:            -6550.7   2204.6         16690.0          10139.3   1.0 
+
+IMD labels after standardisation: Q1 most deprived | Q2 | Q3 | Q4 | Q5 least deprived | Total | Unknown 
+dep age labels: 19-24 | 25+ | Total | Under 19 
+
+Deprivation overlap (totals by quintile, by source), 2017-2022: 
+Key: <year, imd>
+     year               imd   cur rel1920 rel2223
+    <int>            <char> <num>   <num>   <num>
+ 1:  2017  Q1 most deprived     0   83810   83810
+ 2:  2017                Q2     0   77660   77660
+ 3:  2017                Q3     0   75910   75910
+ 4:  2017                Q4     0   72410   72410
+ 5:  2017 Q5 least deprived     0   61410   61410
+ 6:  2018  Q1 most deprived     0   85890   85890
+ 7:  2018                Q2     0   81600   81600
+ 8:  2018                Q3     0   79480   79480
+ 9:  2018                Q4     0   76170   76170
+10:  2018 Q5 least deprived     0   66490   66490
+11:  2019  Q1 most deprived     0   66300   66300
+12:  2019                Q2     0   64730   64730
+13:  2019                Q3     0   66130   66130
+14:  2019                Q4     0   64100   64100
+15:  2019 Q5 least deprived     0   58040   58040
+16:  2020  Q1 most deprived 63730       0   63730
+17:  2020                Q2 65670       0   65670
+18:  2020                Q3 65540       0   65540
+19:  2020                Q4 64430       0   64430
+20:  2020 Q5 least deprived 58710       0   58710
+21:  2021  Q1 most deprived 71840       0   71840
+22:  2021                Q2 71450       0   71450
+23:  2021                Q3 71150       0   71150
+24:  2021                Q4 69690       0   69690
+25:  2021 Q5 least deprived 61610       0   61610
+26:  2022  Q1 most deprived 68870       0   68870
+27:  2022                Q2 67840       0   67840
+28:  2022                Q3 68400       0   68400
+29:  2022                Q4 67970       0   67970
+30:  2022 Q5 least deprived 60160       0   60160
+     year               imd   cur rel1920 rel2223
+    <int>            <char> <num>   <num>   <num> 
+
+RQ2 gradient (Q1, Q5, ratio, concentration index): 
+Key: <year>
+       year     Q1    Q5 ratio      CI
+     <char>  <num> <num> <num>   <num>
+ 1: 2014/15 128290 69950 1.834 -0.1098
+ 2: 2015/16 132310 70050 1.889 -0.1161
+ 3: 2016/17 127770 69180 1.847 -0.1137
+ 4: 2017/18  83810 61410 1.365 -0.0539
+ 5: 2018/19  85890 66490 1.292 -0.0454
+ 6: 2019/20  66300 58040 1.142 -0.0215
+ 7: 2020/21  63730 58710 1.086 -0.0142
+ 8: 2021/22  71840 61610 1.166 -0.0257
+ 9: 2022/23  68870 60160 1.145 -0.0208
+10: 2023/24  68280 61670 1.107 -0.0149
+11: 2024/25  68720 66240 1.037 -0.0031 
+
+Region labels: East Midlands | East of England | London | North East | North West | Outside of England and unknown | South East | South West | West Midlands | Yorkshire and The Humber 
+
+Regional overlap check 2020/21-2022/23 (since vs curgeo), first rows: 
+Key: <year, region>
+     year                         region curgeo since
+    <int>                         <char>  <num> <num>
+ 1:  2020                  East Midlands  28080 28080
+ 2:  2020                East of England  31800 31800
+ 3:  2020                         London  36930 36930
+ 4:  2020                     North East  17310 17310
+ 5:  2020                     North West  45860 45860
+ 6:  2020 Outside of England and unknown   3370  3370
+ 7:  2020                     South East  49020 49020
+ 8:  2020                     South West  36430 36430
+ 9:  2020                  West Midlands  36130 36130
+10:  2020       Yorkshire and The Humber  36520 36520 

@@ -1,0 +1,1409 @@
+Apprenticeships and traineeships
+Academic year 2022/23
+
+Description
+
+This document describes the contents of the underlying data files accompanying the ‘Apprenticeships and traineeships’ statistics publication. There is a Methodology document (https://explore-education-statistics.service.gov.uk/methodology/further-education-and-skills-statistics-methodology) that is linked under ‘Useful information’ at the top of the release, that contains further information on the statistics published here.
+
+Coverage
+
+England
+
+Data files
+
+Achievement Rates Learner Characteristics - Volumes and Rates by Level, Age, Sex, LLDD, Ethnicity
+
+Filename: apps_narts_learner_detailed.csv
+Geographic levels: National
+Time period: 2019/20 to 2021/22
+Content summary: Apprenticeship national achievement rate tables
+
+Academic year: 2019/20 to 2021/22
+
+Indicators: Leavers, Completers, Achievers, Pass rate, Retention rate, Achievement rate
+
+Filters: Level, Age, Sex, LLDD, Ethnicity Major
+
+Variable names and descriptions for this file are provided below:
+
+Variable name     |  Variable description
+----------------  |  --------------------
+achievement_rate  |  Achievement Rate
+achievers         |  Achievers
+age_group         |  Age group
+age_youth_adult   |  Age (under 19/19+)
+completers        |  Completers
+ethnicity_major   |  Ethnicity Major
+leavers           |  Leavers
+level             |  Apprenticeship level
+lldd              |  LLDD
+minority_ethnic   |  Minority ethnic
+pass_rate         |  Pass Rate
+retention_rate    |  Retention Rate
+sex               |  Sex
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+4. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+5. Achievement rates are based on the individual apprenticeship programmes that were completed in the relevant year (Hybrid End Year). They are calculated as the number of programme aims achieved divided by the number started, excluding the programme aims of any learners that transferred onto another qualification within the same institution.
+6. Achievement rates are calculated according to the Apprenticeship Qualification Achievement Rate business rules. These documents are available on the gov.uk website: https://www.gov.uk/government/collections/qualification-achievement-rates-and-minimum-standards
+7. Figures include all funded and unfunded apprenticeship programmes reported on the Individualised Learner Record (ILR).
+8. Further guidance for the Apprenticeships National Achievement Rate Tables can be found on the gov.uk website: https://www.gov.uk/government/collections/sfa-national-success-rates-tables
+9. Pass rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims achieved divided by the number successfully completed.
+10. Retention rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims completed divided by the number of leavers.
+11. The overall achievement rate is based on the Hybrid End Year. The Hybrid End Year is the later of the Achievement Year, Expected End Year, Actual End Year or Reporting Year of a programme.
+12. For Apprenticeships, age is calculated based on age at start of the programme rather than based on 31 August. The following age bands have been used in this report: 16-18, 19-23, 24+.
+
+
+Achievement Rates Learner Characteristics - Volumes and Rates by Std-fwk flag, STEM, SSA T1, Level, Detailed Level, Age, IMD quintile
+
+Filename: apps_narts_deprivation.csv
+Geographic levels: National
+Time period: 2019/20 to 2021/22
+Content summary: Apprenticeship national achievement rate tables
+
+Academic year: 2019/20 to 2021/22
+
+Indicators: Leavers, Completers, Achievers, Pass rate, Retention rate, Achievement rate
+
+Filters: Standard and Framework flag, STEM, Sector Subject Area T1, Level, Detailed Level, Age, IMD deprivation quintile
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  -----------------------------
+achievement_rate     |  Achievement Rate
+achievers            |  Achievers
+age_group            |  Age group
+age_youth_adult      |  Age (under 19/19+)
+completers           |  Completers
+detailed_level       |  Detailed apprenticeship level
+fwk_std_flag         |  Framework/standard
+learner_home_depriv  |  Learner deprivation
+leavers              |  Leavers
+level                |  Apprenticeship level
+pass_rate            |  Pass Rate
+retention_rate       |  Retention Rate
+ssa1                 |  Sector subject area (tier 1)
+stem                 |  STEM
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Indices of Multiple Deprivation (IMD) quintiles from 2014/15 to 2018/19 are based on the 2015 IMD rank of the learner's home postcode. IMD quintiles from 2019/20 onwards are based on the 2019 IMD rank of the learner's home postcode.
+4. Science, technology, engineering, and mathematics (STEM) subjects include those in the Construction, Planning and the Built Environment, Engineering and Manufacturing Technologies, Information and Communication Technology, and Science and Mathematics sector subject areas.
+5. Achievement rates are based on the individual apprenticeship programmes that were completed in the relevant year (Hybrid End Year). They are calculated as the number of programme aims achieved divided by the number started, excluding the programme aims of any learners that transferred onto another qualification within the same institution.
+6. Achievement rates are calculated according to the Apprenticeship Qualification Achievement Rate business rules. These documents are available on the gov.uk website: https://www.gov.uk/government/collections/qualification-achievement-rates-and-minimum-standards
+7. Figures include all funded and unfunded apprenticeship programmes reported on the Individualised Learner Record (ILR).
+8. Further guidance for the Apprenticeships National Achievement Rate Tables can be found on the gov.uk website: https://www.gov.uk/government/collections/sfa-national-success-rates-tables
+9. Pass rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims achieved divided by the number successfully completed.
+10. Retention rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims completed divided by the number of leavers.
+11. Sector Subject Area (SSA) codes are available on the qualification description page: https://www.gov.uk/government/publications/types-of-regulated-qualifications/qualification-descriptions
+12. The overall achievement rate is based on the Hybrid End Year. The Hybrid End Year is the later of the Achievement Year, Expected End Year, Actual End Year or Reporting Year of a programme.
+13. For Apprenticeships, age is calculated based on age at start of the programme rather than based on 31 August. The following age bands have been used in this report: 16-18, 19-23, 24+.
+
+
+Achievement Rates Providers - Volumes and Rates by Provider type, SSA T1, Level, Age
+
+Filename: apps_narts_provider_type.csv
+Geographic levels: National
+Time period: 2021/22
+Content summary: Apprenticeship national achievement rate tables
+
+Academic year: 2021/22
+
+Indicators: Leavers, Completers, Achievers, Pass rate, Retention rate, Achievement rate
+
+Filters: Provider type, Sector Subject Area T1, Level, Age
+
+Variable names and descriptions for this file are provided below:
+
+Variable name     |  Variable description
+----------------  |  ----------------------------
+achievement_rate  |  Achievement Rate
+achievers         |  Achievers
+age_group         |  Age group
+age_youth_adult   |  Age (under 19/19+)
+completers        |  Completers
+leavers           |  Leavers
+level             |  Apprenticeship level
+pass_rate         |  Pass Rate
+provider_type     |  Provider type
+retention_rate    |  Retention Rate
+ssa1              |  Sector subject area (tier 1)
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Science, technology, engineering, and mathematics (STEM) subjects include those in the Construction, Planning and the Built Environment, Engineering and Manufacturing Technologies, Information and Communication Technology, and Science and Mathematics sector subject areas.
+4. Achievement rates are based on the individual apprenticeship programmes that were completed in the relevant year (Hybrid End Year). They are calculated as the number of programme aims achieved divided by the number started, excluding the programme aims of any learners that transferred onto another qualification within the same institution.
+5. Achievement rates are calculated according to the Apprenticeship Qualification Achievement Rate business rules. These documents are available on the gov.uk website: https://www.gov.uk/government/collections/qualification-achievement-rates-and-minimum-standards
+6. Figures include all funded and unfunded apprenticeship programmes reported on the Individualised Learner Record (ILR).
+7. Further guidance for the Apprenticeships National Achievement Rate Tables can be found on the gov.uk website: https://www.gov.uk/government/collections/sfa-national-success-rates-tables
+8. Pass rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims achieved divided by the number successfully completed.
+9. Retention rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims completed divided by the number of leavers.
+10. Sector Subject Area (SSA) codes are available on the qualification description page: https://www.gov.uk/government/publications/types-of-regulated-qualifications/qualification-descriptions
+11. The overall achievement rate is based on the Hybrid End Year. The Hybrid End Year is the later of the Achievement Year, Expected End Year, Actual End Year or Reporting Year of a programme.
+12. For Apprenticeships, age is calculated based on age at start of the programme rather than based on 31 August. The following age bands have been used in this report: 16-18, 19-23, 24+.
+
+
+Achievement Rates Providers - Volumes and Rates by Provider, SSA T1, Level, Standard-framework name
+
+Filename: apps_narts_provider_level_fwk_std.csv
+Geographic levels: Provider
+Time period: 2021/22
+Content summary: Apprenticeship national achievement rate tables
+
+Academic year: 2021/22
+
+Indicators: Leavers, Completers, Achievers, Pass rate, Retention rate, Achievement rate
+
+Filters: Sector Subject Area T1, Level, Standard and Framework
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  ----------------------------------------
+achievement_rate     |  Achievement Rate
+achievers            |  Achievers
+age_group            |  Age group
+age_youth_adult      |  Age (under 19/19+)
+completers           |  Completers
+leavers              |  Leavers
+level                |  Apprenticeship level
+pass_rate            |  Pass Rate
+retention_rate       |  Retention Rate
+ssa1                 |  Sector subject area (tier 1)
+std_fwk_name_stcode  |  Framework / standard name (with ST code)
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Science, technology, engineering, and mathematics (STEM) subjects include those in the Construction, Planning and the Built Environment, Engineering and Manufacturing Technologies, Information and Communication Technology, and Science and Mathematics sector subject areas.
+4. Achievement rates are based on the individual apprenticeship programmes that were completed in the relevant year (Hybrid End Year). They are calculated as the number of programme aims achieved divided by the number started, excluding the programme aims of any learners that transferred onto another qualification within the same institution.
+5. Achievement rates are calculated according to the Apprenticeship Qualification Achievement Rate business rules. These documents are available on the gov.uk website: https://www.gov.uk/government/collections/qualification-achievement-rates-and-minimum-standards
+6. Figures include all funded and unfunded apprenticeship programmes reported on the Individualised Learner Record (ILR).
+7. Further guidance for the Apprenticeships National Achievement Rate Tables can be found on the gov.uk website: https://www.gov.uk/government/collections/sfa-national-success-rates-tables
+8. Pass rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims achieved divided by the number successfully completed.
+9. Retention rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims completed divided by the number of leavers.
+10. Sector Subject Area (SSA) codes are available on the qualification description page: https://www.gov.uk/government/publications/types-of-regulated-qualifications/qualification-descriptions
+11. The overall achievement rate is based on the Hybrid End Year. The Hybrid End Year is the later of the Achievement Year, Expected End Year, Actual End Year or Reporting Year of a programme.
+12. For Apprenticeships, age is calculated based on age at start of the programme rather than based on 31 August. The following age bands have been used in this report: 16-18, 19-23, 24+.
+
+
+Achievement Rates Subjects - Volumes and Rates by Std-fwk flag, STEM, SSA T1 and 2, Standard-framework name, Level, Detailed Level, Age, Funding Type
+
+Filename: apps_narts_subject_and_level_detailed.csv
+Geographic levels: National
+Time period: 2021/22
+Content summary: Apprenticeship national achievement rate tables
+
+Academic year: 2021/22
+
+Indicators: Leavers, Completers, Achievers, Pass rate, Retention rate, Achievement rate
+
+Filters: Standard and Framework flag, STEM, Sector Subject Area T1, Sector Subject Area T2, Standard and Framework, Level, Detailed Level, Age, Funding Type
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  ----------------------------------------
+achievement_rate     |  Achievement Rate
+achievers            |  Achievers
+age_group            |  Age group
+age_youth_adult      |  Age (under 19/19+)
+completers           |  Completers
+detailed_level       |  Detailed apprenticeship level
+funding_type         |  Funding type
+fwk_std_flag         |  Framework/standard
+leavers              |  Leavers
+level                |  Apprenticeship level
+pass_rate            |  Pass Rate
+retention_rate       |  Retention Rate
+ssa1                 |  Sector subject area (tier 1)
+ssa2                 |  Sector subject area (tier 2)
+std_fwk_name_stcode  |  Framework / standard name (with ST code)
+stem                 |  STEM
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Science, technology, engineering, and mathematics (STEM) subjects include those in the Construction, Planning and the Built Environment, Engineering and Manufacturing Technologies, Information and Communication Technology, and Science and Mathematics sector subject areas.
+4. Achievement rates are based on the individual apprenticeship programmes that were completed in the relevant year (Hybrid End Year). They are calculated as the number of programme aims achieved divided by the number started, excluding the programme aims of any learners that transferred onto another qualification within the same institution.
+5. Achievement rates are calculated according to the Apprenticeship Qualification Achievement Rate business rules. These documents are available on the gov.uk website: https://www.gov.uk/government/collections/qualification-achievement-rates-and-minimum-standards
+6. Figures include all funded and unfunded apprenticeship programmes reported on the Individualised Learner Record (ILR).
+7. Further guidance for the Apprenticeships National Achievement Rate Tables can be found on the gov.uk website: https://www.gov.uk/government/collections/sfa-national-success-rates-tables
+8. Pass rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims achieved divided by the number successfully completed.
+9. Retention rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims completed divided by the number of leavers.
+10. Sector Subject Area (SSA) codes are available on the qualification description page: https://www.gov.uk/government/publications/types-of-regulated-qualifications/qualification-descriptions
+11. The overall achievement rate is based on the Hybrid End Year. The Hybrid End Year is the later of the Achievement Year, Expected End Year, Actual End Year or Reporting Year of a programme.
+12. For Apprenticeships, age is calculated based on age at start of the programme rather than based on 31 August. The following age bands have been used in this report: 16-18, 19-23, 24+.
+
+
+Achievement Rates Subjects - Volumes and Rates by STEM, SSA T1, Level, Age, Ethnicity, Sex, LLDD
+
+Filename: apps_narts_subject_demographics.csv
+Geographic levels: National
+Time period: 2019/20 to 2021/22
+Content summary: Apprenticeship national achievement rate tables
+
+Academic year: 2019/20 - 2021/22
+
+Indicators: Leavers, Completers, Achievers, Pass rate, Retention rate, Achievement rate
+
+Filters: STEM, Sector Subject Area T1, Level, Age, Ethnicity Major, Minority Ethnic, Sex, LLDD
+
+Variable names and descriptions for this file are provided below:
+
+Variable name           |  Variable description
+----------------------  |  -----------------------------
+achievement_rate        |  Achievement Rate
+achievers               |  Achievers
+completers              |  Completers
+detailed_level          |  Detailed apprenticeship level
+learner_characteristic  |  Learner Characteristic
+leavers                 |  Leavers
+level                   |  Apprenticeship level
+pass_rate               |  Pass Rate
+retention_rate          |  Retention Rate
+ssa1                    |  Sector subject area (tier 1)
+stem                    |  STEM
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+4. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+5. Science, technology, engineering, and mathematics (STEM) subjects include those in the Construction, Planning and the Built Environment, Engineering and Manufacturing Technologies, Information and Communication Technology, and Science and Mathematics sector subject areas.
+6. Achievement rates are based on the individual apprenticeship programmes that were completed in the relevant year (Hybrid End Year). They are calculated as the number of programme aims achieved divided by the number started, excluding the programme aims of any learners that transferred onto another qualification within the same institution.
+7. Achievement rates are calculated according to the Apprenticeship Qualification Achievement Rate business rules. These documents are available on the gov.uk website: https://www.gov.uk/government/collections/qualification-achievement-rates-and-minimum-standards
+8. Figures include all funded and unfunded apprenticeship programmes reported on the Individualised Learner Record (ILR).
+9. Further guidance for the Apprenticeships National Achievement Rate Tables can be found on the gov.uk website: https://www.gov.uk/government/collections/sfa-national-success-rates-tables
+10. Pass rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims achieved divided by the number successfully completed.
+11. Retention rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims completed divided by the number of leavers.
+12. Sector Subject Area (SSA) codes are available on the qualification description page: https://www.gov.uk/government/publications/types-of-regulated-qualifications/qualification-descriptions
+13. The overall achievement rate is based on the Hybrid End Year. The Hybrid End Year is the later of the Achievement Year, Expected End Year, Actual End Year or Reporting Year of a programme.
+14. For Apprenticeships, age is calculated based on age at start of the programme rather than based on 31 August. The following age bands have been used in this report: 16-18, 19-23, 24+.
+
+
+Adverts and vacancies by Level, Month
+
+Filename: app-vacancies-adverts-2023-nov.csv
+Geographic levels: National
+Time period: 2018/19 to 2023/24
+Content summary: Adverts and vacancies as reported on the Find an apprenticeship website
+
+Academic year: 2018/19 to 2022/23 full academic years, 2023/24 (Aug-Oct, reported to date)
+
+Indicators: Adverts, Vacancies
+
+Filters: Month, level
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+---------  |  ---------
+adverts    |  Adverts
+level      |  Level
+month      |  Month
+vacancies  |  Vacancies
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Adverts are vacancy notices and will include at least one apprenticeship vacancy with an employer (one advert could potentially include a large number of individual vacancies).
+3. The number of vacancies does not provide a true measure of vacancies for apprenticeships because many are not advertised through the Find An Apprenticeship website, therefore the measure represents a subset of the total number available across the marketplace as a whole.
+4. The number of vacancies could include some over-counting as it may be possible for a vacancy to have previously been advertised and some vacancies can be extended.
+5. Level is as declared by the user placing the advert and does not necessarily align with the definition of level we publish elsewhere. Higher apprenticeships here include those declared as 'Higher' and 'Degree' in the advert. Degree apprenticeships here are those higher apprenticeships at level 6 or 7 apprenticeships declared as "Degree". Elsewhere we define a degree apprenticeships as a level 6 or 7 apprenticeship with a mandatory degree component that is required for successful achievement of the apprenticeship.
+6. There are around 100 adverts since August 2018, for which the number of vacancies in each are currently unavailable. These vacancies therefore are not counted within the vacancy volumes shown here, however, the corresponding adverts are counted in the advert totals.
+7. The number of adverts does not provide a true measure of adverts for apprenticeships because many are not advertised through the Find An Apprenticeship website, therefore the measure represents a subset of the total number available across the marketplace as a whole.
+8. The 2023/24 academic year currently contains three months of data.
+
+
+Commitments by Start year, Start month, Payment Status, Level, Age, Levy status
+
+Filename: app-service-commitments-202223-nov.csv
+Geographic levels: National
+Time period: 2022/23
+Content summary: Commitments recorded on the apprenticeship service as of 30 October 2023
+
+Academic year: Training start dates from the 2018/19 academic year onwards
+
+Indicators: Commitments
+
+Filters: Start academic year, Start month, Latest levy status, Apprenticeship level, Payment status, Transfer flag, Age group
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  --------------------
+age_group            |  Age group
+commitments          |  Commitments
+latest_levy_status   |  Latest levy status
+level                |  Apprenticeship level
+payment_status       |  Payment status
+start_academic_year  |  Start academic year
+start_month          |  Start month
+transfer_flag        |  Transfer flag
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Commitments may be recorded on the Apprenticeship Service system after the training start date has passed and therefore data should be treated as highly provisional.
+3. The levy-status of a commitment is based on the latest known status of the corresponding apprenticeship service account. This means that historical commitments may change their levy status if the apprenticeship service account was to subsequently change their status.
+4. Fully agreed commitments include commitments for which funding payments are complete, along with those that are actively being funded.
+5. On 9 January 2020 the Apprenticeship service was extended to all employers that do not pay the levy to register and reserve funds. Prior to January 2020 it was only possible for non-levy organisations to set up apprenticeship service accounts and have commitments in order to utilise levy transfers, whilst a limited number of non-levy organisations registered accounts as part of testing in preparation for the extension of the service to all employers.
+6. From 01 April 2021, all non-levy paying organisations are using the apprenticeship service. Prior to this date some starts with non-levy employers were not funded through the apprenticeship service and so the data reported here only provides a partial picture.
+
+
+Duration, Starts by Level, Age, Length of employment
+
+Filename: app-duration-staylength-emplength-202223-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2022/23
+Content summary: Apprenticeship duration, apprenticeship planned length of stay and length of employment
+
+Academic year:  2014/15 to 2022/23
+
+Indicators: Starts, Starts (used in duration calculations), Average expected duration
+
+Filters:  Age group, Detailed level, Length of employment, Planned length of stay
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  --------------------------------------
+age_summary            |  Age
+apps_level_detailed    |  Detailed level
+avg_expected_duration  |  Average expected duration (days)
+length_employment      |  Length of Employment
+planned_length_stay    |  Planned Length of Stay
+starts                 |  Starts
+starts_for_duration    |  Starts (used in duration calculations)
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 100 and 'low' indicates a base value of fewer than 50. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Age for starts is based on age at the start of the programme.
+3. Expected duration is based on learning start date and planned end date as recorded on the Individualised Learner Record  (ILR). Re-starting learners who may have returned from a planned break are excluded.
+4. Length of Employment is based on the First Day of Learning with the current employer as recorded in the Individualised Learner Record (ILR).
+5. Apprenticeships of fewer than 12 months include those where prior attainment is taken into account hence the required amount of training is reduced.
+
+
+Geography LA, PCON and Region - Starts since May 2010 and 2015
+
+Filename: app-starts-since-202223-q4.csv
+Geographic levels: Local authority; National; Parliamentary constituency; Regional
+Time period: 2009/10 to 2022/23
+Content summary: Headline geographical breakdowns of apprenticeship starts since 2010 including local authority, region, parliamentary constituency and national totals.
+
+Academic years: April 2010 to 2022/23
+
+Indicators:  Apprenticeship starts
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  --------------------------------
+starts                 |  Starts
+starts_since_may_2010  |  Cumulative starts since May 2010
+starts_since_may_2015  |  Cumulative starts since May 2015
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Starts since May 2010 includes May 2010 to July 2010, and the full 2010/11 to 2022/23 academic years.
+4. Starts since May 2015 includes May 2015 to July 2015, and the full 2015/16 to 2022/23 academic years.
+5. Starts from the Isles of Scilly (E06000053) have been included in starts in Cornwall (E06000052).
+6. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+7. Geographies are taken from the National Statistics Postcode Lookup.
+
+
+Geography LAD and PCON - Starts, Participation, Achievements by Age, Sex, Level
+
+Filename: app-geography-pcon-lad-202223-q4.csv
+Geographic levels: Local authority district; National; Parliamentary constituency
+Time period: 2017/18 to 2022/23
+Content summary: Geographical breakdowns (Local Authority District; National; Parliamentary Constituency) of apprenticeship starts, participation, and achievements.
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, Participation, Achievements
+
+Filters: Apprenticeship level, Age group, Sex
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+-------------  |  --------------------
+achievements   |  Achievements
+age_group      |  Age group
+apps_level     |  Apprenticeship level
+participation  |  Participation
+sex            |  Sex
+starts         |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Participation is the count of learners that participated at any point during the stated academic period. Learners undertaking more than one course will appear only once in the grand total.
+3. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+4. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+5. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+6. Age for starts is based on age at the start of the programme.
+7. Age for apprenticeship participation is based on age as at 31 August of the academic year.
+8. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+9. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+10. Geographies are taken from the National Statistics Postcode Lookup.
+
+
+Geography LEP and EDA - Starts, Achievements by Age, Sex, Level, SSA, Ethnicity
+
+Filename: app-geog-lep-eda-202223-q4.csv
+Geographic levels: English devolved area; Local enterprise partnership
+Time period: 2017/18 to 2022/23
+Content summary: Detailed geographical breakdowns (English Devolved Area; Local Enterprise Partnership) of apprenticeship starts and achievements
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, Achievements
+
+Filters: Apprenticeship level, Ethnicity Major, Sex, Sector subject area (tier 1), Age group
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  ----------------------------
+achievements     |  Achievements
+age_summary      |  Age group
+apps_level       |  Apprenticeship level
+ethnicity_major  |  Ethnicity major
+sex              |  Sex
+ssa_t1_desc      |  Sector subject area (tier 1)
+starts           |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+4. Age for starts is based on age at the start of the programme.
+5. Age for achievements is based on age at the start of the programme, not the age at which they achieved.
+6. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+7. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+8. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+9. Geographies are taken from the National Statistics Postcode Lookup.
+10. Geography is based upon the home postcode of the learner. Where the postcode is outside of an English devolved area or not known it is included in the 'Outside of an English Devolved Area and unknown' category.
+11. Figures show apprenticeship provision in English devolved areas. Please note that apprenticeship provision is not devolved to English devolved areas.
+
+
+Geography Region - Starts, Achievements, Participation, Population by Age, Level
+
+Filename: apps-geography-population-202223-q4.csv
+Geographic levels: English devolved area; Local authority; Local authority district; Local enterprise partnership; Local skills improvement plan area; National; Parliamentary constituency; Regional
+Time period: 2017/18 to 2022/23
+Content summary: Detailed geographical breakdowns (National, Regional, Local Authority District, Local Authority, English Devolved Administrations, Local Enterprise Partnerships, Local Skills Improvement Plan areas, Parliamentary Constituency) of Starts, Participation and Achievements by population rate per 100,000
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, Participation, Achievements
+
+Filters: Age and Level
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                             |  Variable description
+----------------------------------------  |  ----------------------------------------------------
+achievements                              |  Achievements
+achievements_rate_per_100000_population   |  Indicative achievements rate per 100,000 population
+age_group                                 |  Age group
+apps_level                                |  Apprenticeship level
+participation                             |  Participation
+participation_rate_per_100000_population  |  Indicative participation rate per 100,000 population
+population_estimate                       |  Population estimate
+starts                                    |  Starts
+starts_rate_per_100000_population         |  Indicative starts rate per 100,000 population
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Participation is the count of learners that participated at any point during the stated academic period. Learners undertaking more than one course will appear only once in the grand total.
+3. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+4. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+5. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+6. Age for starts is based on age at the start of the programme.
+7. Age for achievements is based on age at the start of the programme, not the age at which they achieved.
+8. Age for apprenticeship participation is based on age as at 31 August of the academic year.
+9. Rates per 100,000 population have been calculated using the data 'population estimates - small area based by single year of age - England and Wales' produced by the Office of National Statistics and extracted from the NOMIS website. 2022/23 rates have been calculated using the latest 2021 population estimates and will be recalculated when more recent estimates are available.
+10. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+11. Geographies are taken from the National Statistics Postcode Lookup.
+
+
+Geography Region and LAD - Starts, Achievements by Sex, Level, Ethnicity, SSA
+
+Filename: app-geography-detailed-202223-q4.csv
+Geographic levels: Local authority district; National; Regional
+Time period: 2022/23
+Content summary: Detailed geographical breakdowns (National, Regional, Local Authority District) of  apprenticeship starts and achievements
+
+Academic year: 2022/23
+
+Indicators: Starts, Achievements
+
+Filters: Apprenticeship level, Ethnicity Major, Sex, Sector subject area (tier 1)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  ----------------------------
+achievements     |  Achievements
+apps_level       |  Apprenticeship level
+ethnicity_major  |  Ethnicity major
+sex              |  Sex
+ssa_t1_desc      |  Sector subject area (tier 1)
+starts           |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+4. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+5. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+6. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+7. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+8. Geographies are taken from the National Statistics Postcode Lookup.
+
+
+Headline Full year - Starts, Achievements, Participation by Level, Levy, Age, Region, Provider type
+
+Filename: app-latest-summary-full-year-202223-q4.csv
+Geographic levels: National; Regional
+Time period: 2015/16 to 2022/23
+Content summary: Time series of headline apprenticeship figures
+
+Academic year:  2015/16 to 2022/23
+
+Indicators: Starts, Achievements, Learner participation, Percentage Starts, Percentage Achievements
+
+Filters:  Apprenticeship level, Funding type, Age group, Provider Type
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                                 |  Variable description
+--------------------------------------------  |  ------------------------------------------------------
+achievements                                  |  Achievements
+achievements_percentage_within_provider_type  |  Achievements  Percentage by Provider type and Level
+achievements_percentage_within_year           |  Achievements  Percentage by Age Level and Funding Type
+age_group                                     |  Age group
+age_youth_adult                               |  Age (under 19/19+)
+funding_type                                  |  Funding type
+level                                         |  Level
+participation                                 |  Participation
+provider_type                                 |  Provider type
+starts                                        |  Starts
+starts_percentage_within_provider_type        |  Starts  Percentage by Provider type and Level
+starts_percentage_within_year                 |  Starts  Percentage by Age Level and Funding Type
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Participation is the count of learners that participated at any point during the stated academic period. Learners undertaking more than one course will appear only once in the grand total.
+4. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+5. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+6. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+7. Age for starts is based on age at the start of the programme.
+8. Age for achievements is based on age at the start of the programme, not the age at which they achieved.
+9. Age for apprenticeship participation is based on age as at 31 August of the academic year.
+10. A minor amendment to how we count ‘starts supported by Apprenticeship Service Account (ASA) levy funds’ was applied for 2019/20. A further minor amendment was applied from 2020/21, please see the 'Methodology changes' section of the 'Further education and skills statistics: methodology' document for more information.
+11. Starts supported by Apprenticeship Service Account (ASA) levy funds in the 2016/17 academic year were only possible from May 2017 onwards. Figures for 2016/17 should be compared with caution to subsequent years.
+12. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+13. Geographies are taken from the National Statistics Postcode Lookup.
+
+
+Learner Characteristics Deprivation - Participation by Age, Learner home deprivation
+
+Filename: app-learner-deprivation-part-202223-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2022/23
+Content summary: Apprenticeship participation by apprentice home deprivation (Indices of Multiple Deprivation quintile)
+
+Academic years: 2017/18 to 2022/23
+
+Indicators:  Participation total, Higher level participation, Advanced level participation, Intermediate level participation,
+
+Filters:  Age (under 19/19+), Age Summary, Learner Home Deprivation Quintile
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  ---------------------
+advanced_learners      |  Advanced Learners
+age_summary            |  Age group
+age_youth_adult        |  Age (under 19/19+)
+higher_learners        |  Higher Learners
+intermediate_learners  |  Intermediate Learners
+learner_home_depriv    |  Learner deprivation
+participation          |  Participation
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Participation is the count of learners that participated at any point during the stated academic period. Learners undertaking more than one course will appear only once in the grand total.
+3. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+4. Age for apprenticeship participation is based on age as at 31 August of the academic year.
+5. Indices of Multiple Deprivation (IMD) quintiles from 2014/15 to 2018/19 are based on the 2015 IMD rank of the learner's home postcode. IMD quintiles from 2019/20 onwards are based on the 2019 IMD rank of the learner's home postcode.
+6. Unknown Index of Multiple Deprivation (IMD) Quintile refers to a learner with a postcode that does not match to lower super output area.
+
+
+Learner Characteristics Deprivation - Starts by Age, Learner home deprivation, SSA, Level
+
+Filename: app-learner-deprivation-starts-202223-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2022/23
+Content summary: Apprenticeship starts and achievements by apprentice home deprivation (Indices of Multiple Deprivation quintile)
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, achievements
+
+Filters: Age group (under 19/19+), Age Summary, Detailed level, Sector Subject Area, Learner Home Deprivation
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  -----------------------------
+achievements         |  Achievements
+age_summary          |  Age group
+age_youth_adult      |  Age (under 19/19+)
+apps_level_detailed  |  Detailed apprenticeship level
+learner_home_depriv  |  Learner deprivation
+ssa_t1_desc          |  Sector subject area (tier 1)
+starts               |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Age for starts is based on age at the start of the programme.
+4. Age for achievements is based on age at the start of the programme, not the age at which they achieved.
+5. Indices of Multiple Deprivation (IMD) quintiles from 2014/15 to 2018/19 are based on the 2015 IMD rank of the learner's home postcode. IMD quintiles from 2019/20 onwards are based on the 2019 IMD rank of the learner's home postcode.
+6. Unknown Index of Multiple Deprivation (IMD) Quintile refers to a learner with a postcode that does not match to lower super output area.
+
+
+Learner Characteristics Ethnicity - Starts, Achievements, Participation by Age, Level, Ethnicity, Sex, LLDD
+
+Filename: app-learner-detailed-202223-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2022/23
+Content summary: Time series of apprenticeship starts, achievements, participation, by learner characteristics
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, Achievements, Participation
+
+Filters: Age group (under 19/19+), Age Summary, Ethnicity Major, Ethnicity Minor, Minority Ethnic, Sex, LLDD, Apprenticeship Level
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  --------------------
+achievements     |  Achievements
+age_summary      |  Age group
+age_youth_adult  |  Age (under 19/19+)
+ethnicity_major  |  Ethnicity Major
+ethnicity_minor  |  Ethnicity Minor
+level            |  Apprenticeship level
+lldd             |  LLDD
+minority_ethnic  |  Minority Ethnic
+participation    |  Participation
+sex              |  Sex
+starts           |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Participation is the count of learners that participated at any point during the stated academic period. Learners undertaking more than one course will appear only once in the grand total.
+3. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+4. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+5. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+6. Age for starts is based on age at the start of the programme.
+7. Age for achievements is based on age at the start of the programme, not the age at which they achieved.
+8. Age for apprenticeship participation is based on age as at 31 August of the academic year.
+9. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+10. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+11. Ethnic minorities do not include white minorities.
+12. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+
+
+Learner Characteristics Full Year - Starts by Age, Ethnicity, LLDD, Sex
+
+Filename: app-learner-summary-202223-q4.csv
+Geographic levels: National
+Time period: 2019/20 to 2022/23
+Content summary: Headline demographic summary of apprenticeship starts
+
+Academic years:  2019/20 to 2022/23
+
+Indicators:  Starts, Starts percentage
+
+Filters: Sex, LLDD flag, Ethnicity Major, Minority Ethnic flag, Age group
+
+Variable names and descriptions for this file are provided below:
+
+Variable name            |  Variable description
+-----------------------  |  -----------------------
+achievements             |  Achievements
+demographic              |  Demographic
+group                    |  Group
+percentage_achievements  |  Achievements Percentage
+percentage_starts        |  Starts Percentage
+starts                   |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+4. Age for starts is based on age at the start of the programme.
+5. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+6. Percentages for learner characteristics include those learners where the characteristic is known. 'Not known/not provided' categories are excluded from the calculation.
+7. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+8. Ethnic minorities do not include white minorities.
+9. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+
+
+Learner Characteristics LLDD - Starts, Achievements, Participation by Age, Level, Ethnicity, LLDD, Primary LLDD
+
+Filename: app-learner-lldd-202223-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2022/23
+Content summary: Apprenticeship starts, achievements and participation by
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, achievements, participation
+
+Filters: Age group (under 19/19+), Age Summary, Level, LLDD, Primary LLDD, Minority Ethnic flag
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  --------------------
+achievements     |  Achievements
+age_summary      |  Age group
+age_youth_adult  |  Age (under 19/19+)
+level            |  Apprenticeship level
+lldd             |  LLDD
+lldd_primary     |  Primary LLDD
+minority_ethnic  |  Minority Ethnic
+participation    |  Participation
+starts           |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Participation is the count of learners that participated at any point during the stated academic period. Learners undertaking more than one course will appear only once in the grand total.
+3. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+4. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+5. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+6. Age for starts is based on age at the start of the programme.
+7. Age for achievements is based on age at the start of the programme, not the age at which they achieved.
+8. Age for apprenticeship participation is based on age as at 31 August of the academic year.
+9. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+10. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+11. Learners with learning difficulties and/or disabilities (LLDD) categories but must indicate which of these is the primary disability, difficulty or health problem. Overall ‘Primary LLDD and health problem’ totals may not match the main LLDD figures.
+12. Ethnic minorities do not include white minorities.
+13. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+
+
+Monthly Apprenticeship Starts by Start month, Age, Level, Fwk-std flag, Levy
+
+Filename: app-monthly-starts-quarterly-202223-nov.csv
+Geographic levels: National
+Time period: 2019/20 to 2022/23
+Content summary: Monthly breakdowns of the latest available apprenticeship starts
+
+Academic years: 2019/20 to 2022/23
+
+Indicators: Starts
+
+Filters: Age Summary, Funding type, Level, Framework/Standards Flag, Start month
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+------------  |  --------------------
+age_summary   |  Age group
+funding_type  |  Funding type
+level         |  Apprenticeship level
+start_month   |  Start month
+starts        |  Starts
+std_fwk_flag  |  Standards/framework
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Age for starts is based on age at the start of the programme.
+4. A minor amendment to how we count ‘starts supported by Apprenticeship Service Account (ASA) levy funds’ was applied for 2019/20. A further minor amendment was applied from 2020/21, please see the 'Methodology changes' section of the 'Further education and skills statistics: methodology' document for more information.
+5. There are a small number of starts on frameworks that have been reported in 2021/22 and 2022/23. All remaining apprenticeship frameworks were withdrawn to new learners on 31 July 2020. Learners who started on frameworks are where it has been agreed a learner can return to a previous framework they have been on after an extensive break.
+
+
+Providers - Starts, Achievements by Provider Name, UKPRN, Level, SSA
+
+Filename: app-provider-starts-202223-q4.csv
+Geographic levels: Provider
+Time period: 2017/18 to 2022/23
+Content summary: Breakdowns of apprenticeship starts and achievements by individual provider
+
+Academic years: 2017/18 to 2022/23
+
+Indicators:  Starts, Achievements
+
+Filters:  Apprenticeship level, Sector subject area (tier 1), Provider name (with UKPRN)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+------------  |  ----------------------------
+achievements  |  Achievements
+apps_level    |  Level
+ssa_t1_desc   |  Sector subject area (tier 1)
+starts        |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+4. UK Provider Reference Number (UKPRN) is shown after the provider name.
+
+
+Public sector apprenticeships - aggregate return values by sub-sector
+
+Filename: app-pubsec-summary-2023.csv
+Geographic levels: National
+Time period: 2022-23
+Content summary: Public sector headcounts and apprenticeship starts by sub-sector
+
+Financial year: 2022-23
+
+Indicators: Employee and apprentice numbers (immediately before and at the end of each reporting period). New employees and apprentices starting during the reporting period. Percentage of employees who are apprentices. New apprenticeship starts as a percentage of headcount. Number of public sector bodies included in aggregates.
+
+Filters: Sub-sector
+
+Variable names and descriptions for this file are provided below:
+
+Variable name   |  Variable description
+--------------  |  --------------------------------------------------------------
+app_end         |  Apprentices at end of period (thousands)
+app_new         |  New apprentices in period (thousands)
+app_prior       |  Apprentices prior to period (thousands)
+bodies          |  Number of employers included in period
+emp_end         |  Headcount at end of period (thousands)
+emp_new         |  New employees in period (thousands)
+emp_prior       |  Headcount prior to period (thousands)
+pct_app_end     |  Apprentices % at end of period
+pct_app_new     |  Apprenticeship training starts as % of new employees in period
+pct_app_prior   |  Apprentices % prior to period
+pct_start_inyr  |  % of employees starting apprenticeships in period
+sub_sector      |  Sub-sector
+
+Footnotes:
+
+1. Headcount and apprentice numbers have been rounded to the nearest 100.
+2. Percentages are rounded to one decimal place and calculated based on unrounded volumes.
+3. Sub-sectors have been assigned based on a mapping of Apprenticeship Service account names to public sector bodies.
+4. New apprentices, includes employees who were already working for the body before beginning their apprenticeship, as well as new apprentice hires.
+5. The Civil Service is covered by a single return compiled by the Cabinet Office.
+6. Staff in schools maintained by a Local Authority are included within the 'All Local Government' totals. For the 2022-23 collection, LAs were able to supply separate counts of employees in maintained schools and staff not working in schools. These are shown in 'maintained schools only' and 'excluding schools' categories in the aggregated data.
+
+
+Public sector target - historical aggregate return values by sub-sector 2017-18 to 2021-22
+
+Filename: app-pubsec-historical-summary.csv
+Geographic levels: National
+Time period: 2017-18 to 2021-22
+Content summary: Historical apprenticeships target data submitted by public sector organisations
+
+Financial Years: 2017-18 to 2021-22
+
+Indicators: Employee and apprentice numbers (immediately before and at the end of each reporting period). New employees and apprentices starting during the reporting period. Percentage of employees who are apprentices. New apprenticeship starts as a percentage of headcount. Number of public sector bodies included in aggregates.
+
+Filters: Sub-sector
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  --------------------------------------------------------------------------------------
+app_end                |  Apprentices at end of period (thousands)
+app_new                |  New apprentices in period (thousands)
+app_new_cumulative     |  Cumulative new apprentices over 4-year period 2017/18 to 2020/21 (thousands)
+app_prior              |  Apprentices prior to period (thousands)
+bodies                 |  Number of employers included in period
+emp_end                |  Headcount at end of period (thousands)
+emp_new                |  New employees in period (thousands)
+emp_prior              |  Headcount prior to period (thousands)
+emp_prior_cumulative   |  Cumulative headcount over 4-year period 2017/18 to 2020/21 (thousands)
+pct_app_end            |  Apprentices % at end of period
+pct_app_new            |  Apprenticeship training starts as % of new employees in period
+pct_app_prior          |  Apprentices % prior to period
+pct_target_cumulative  |  Average % of employees starting apprenticeship (over 4-year period 2017/18 to 2020/21)
+pct_target_inyr        |  % of employees starting apprenticeships in period
+sub_sector             |  Sub-sector
+
+Footnotes:
+
+1. Headcount and apprentice numbers have been rounded to the nearest 100.
+2. Percentages are rounded to one decimal place and calculated based on unrounded volumes.
+3. Sub-sectors have been assigned based on a mapping of Apprenticeship Service account names to public sector bodies.
+4. New apprentices, includes employees who were already working for the body before beginning their apprenticeship, as well as new apprentice hires.
+5. The Civil Service is covered by a single return compiled by the Cabinet Office.
+6. Staff in schools maintained by a Local Authority are included within the 'Local Government' totals.
+
+
+Redundancies by Age, Level, Levy
+
+Filename: app-redundancies-202223-nov.csv
+Geographic levels: National
+Time period: 2022/23
+Content summary: Redundancies recorded on the apprenticeship service as of 30 October 2023
+
+Coverage: August 2020 onwards
+
+Indicators: Redundancies
+
+Filters: Age group, Apprenticeship level, Redundancy academic year, Redundancy month
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+-------------  |  --------------------
+academic_year  |  Academic year
+age_group      |  Age group
+apps_level     |  Apprenticeship level
+month          |  Month
+redundancies   |  Redundancies
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Employers can record information about redundancies at a later date on the Apprenticeship service  (AS), therefore the information can suffer from ‘data lag’ with information being recorded weeks or months after the redundancy actually happened. Figures for the most recent months will therefore likely be underreported.
+3. This data does not capture all apprenticeships, as prior to 01 April 2021 not all non-levy employers were using the Apprenticeship Service (AS). From 01 April 2021 all new starts are reported and managed through the AS.
+
+
+Subjects Full Year - Starts, Achievements by SSA T1 and T2, Std-fwk flag
+
+Filename: app-subject-summary-202223-q4.csv
+Geographic levels: National
+Time period: 2019/20 to 2022/23
+Content summary: Headline summary of apprenticeship starts and achievements by sector subject area
+
+Academic years: 2019/20 to 2022/23
+
+Indicators: Starts, Starts percentage, Achievements, Achievements percentage
+
+Filters: Sector subject area (tier 1 and 2), Standard / Framework flag
+
+Variable names and descriptions for this file are provided below:
+
+Variable name         |  Variable description
+--------------------  |  ----------------------------
+achievements          |  Achievements
+achievements_percent  |  Achievements Percentage
+ssa_t1_desc           |  Sector subject area (tier 1)
+ssa_t2_desc           |  Sector subject area (tier 2)
+starts                |  Starts
+starts_percent        |  Starts Percentage
+std_fwk_flag          |  Framework/standard
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+4. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+
+
+Subjects - Starts, Achievements by Age, Sex, LLDD, Level,  Levy
+
+Filename: app-subject-levy-202223-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2022/23
+Content summary: Time series of apprenticeship starts and achievements by level and funding type
+
+Academic years: 2017/18 to 2022/23
+Indicators:  Starts, Achievements
+
+Filters: Age group (under 19/19+), Age summary, Apprenticeship level, LLDD flag, Sex, Funding type
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  --------------------
+achievements     |  Achievements
+age_summary      |  Age group
+age_youth_adult  |  Age (under 19/19+)
+apps_level       |  Apprenticeship level
+funding_type     |  Funding type
+lldd             |  LLDD
+sex              |  Sex
+starts           |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+4. Age for starts is based on age at the start of the programme.
+5. Age for achievements is based on age at the start of the programme, not the age at which they achieved.
+6. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+7. A minor amendment to how we count ‘starts supported by Apprenticeship Service Account (ASA) levy funds’ was applied for 2019/20. A further minor amendment was applied from 2020/21, please see the 'Methodology changes' section of the 'Further education and skills statistics: methodology' document for more information.
+
+
+Subjects - Starts, Achievements, Enrolments by Age, Sex, Ethnicity, LLDD, SSA, Detailed level, Standard-framework name and code
+
+Filename: app-subject-standards-202223-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2022/23
+Content summary: Time series of apprenticeship starts, achievements and enrolments by individual framework/standard and learner demographic details.
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, Achievements, Enrolments
+
+Filters: Framework/Standard name (with ST code), Detailed level, Sector subject area (tier 1), Learner characteristics group (Minority Ethnic flag, LLDD flag, Age group, Sex)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name           |  Variable description
+----------------------  |  ----------------------------------------
+achievements            |  Achievements
+apps_level_detailed     |  Detailed apprenticeship level
+enrolments              |  Enrolments
+learner_characteristic  |  Learner Characteristic
+ssa_t1_desc             |  Sector subject area (tier 1)
+starts                  |  Starts
+std_fwk_name_stcode     |  Framework / standard name (with ST code)
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+4. Age for starts is based on age at the start of the programme.
+5. Age for achievements is based on age at the start of the programme, not the age at which they achieved.
+6. Age for enrolments is based on age at the start of the programme.
+7. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+8. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+9. Frameworks are reported as per Specification of Apprenticeship Standards for England (SASE) description.
+10. There are a small number of starts on frameworks that have been reported in 2021/22 and 2022/23. All remaining apprenticeship frameworks were withdrawn to new learners on 31 July 2020. Learners who started on frameworks are where it has been agreed a learner can return to a previous framework they have been on after an extensive break.
+11. Ethnic minorities do not include white minorities.
+12. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+
+
+Subjects - Starts, Achievements, Enrolments by Detailed level, Degree flag, Std-fwk flag, STEM, SSA T1 and 2
+
+Filename: app-subject-detailed-202223-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2022/23
+Content summary: Time series of apprenticeship starts, achievements and enrolments by detailed sector subject area
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, Achievements, Enrolments
+
+Filters: Apprenticeship level, Detailed level, Sector subject area (tier 1), Sector subject area (tier 2), Level 6+ flag, Mandatory degree flag, Standard/framework flag, STEM flag
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  -----------------------------
+achievements         |  Achievements
+aim_enrolments       |  Enrolments
+apps_degree          |  Mandatory degree
+apps_level           |  Apprenticeship level
+apps_level_detailed  |  Detailed apprenticeship level
+level_6plus          |  Level 6 plus
+ssa_t1_desc          |  Sector subject area (tier 1)
+ssa_t2_desc          |  Sector subject area (tier 2)
+starts               |  Starts
+std_fwk_flag         |  Framework/standard
+stem                 |  STEM
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Total achievements are the count of Apprenticeships achieved at any point during the stated academic period. Learners achieving more than one Apprenticeship will appear more than once.
+4. Level 6 plus represents degree-level apprenticeships (apprenticeships at level 6 and level 7). Degree level apprenticeships may or may not have a mandatory degree component.
+5. Mandatory degree refers to apprenticeship standards on the 'Search the Apprenticeship Standards' website with a status of ‘Integrated' or ‘Non-Integrated' Degree, plus any frameworks where degrees are mandatory for completion.
+6. Some apprentices may be on an apprenticeship that doesn’t mandate a degree, but where the apprentice may achieve a degree as part of their employer’s particular apprenticeship programme.
+7. Science, technology, engineering, and mathematics (STEM) subjects include those in the Construction, Planning and the Built Environment, Engineering and Manufacturing Technologies, Information and Communication Technology, and Science and Mathematics sector subject areas.
+8. There are a small number of starts on frameworks that have been reported in 2021/22 and 2022/23. All remaining apprenticeship frameworks were withdrawn to new learners on 31 July 2020. Learners who started on frameworks are where it has been agreed a learner can return to a previous framework they have been on after an extensive break.
+
+
+Subjects - Starts, Enrolments by Age, Sex, Ethnicity, LLDD, SSA, Detailed level, STEM
+
+Filename: app-subject-demographics-202223-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2022/23
+Content summary: Time series of apprenticeship starts and enrolments by subject and learner demographics
+
+Academic years: 2017/18 to 2022/23
+
+Indicators: Starts, Enrolments
+
+Filters: Detailed level, Sector subject area (tier 1), Detailed Age Group, Minority Ethnic flag, LLDD flag, Sex, STEM flag
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  -----------------------------
+age_detailed         |  Age group (detailed)
+apps_level_detailed  |  Detailed apprenticeship level
+enrols               |  Enrolments
+lldd                 |  LLDD
+minority_ethnic      |  Minority Ethnic
+sex                  |  Sex
+ssa_t1_desc          |  Sector Subject Area (tier 1)
+starts               |  Starts
+stem                 |  STEM
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of apprenticeships started at any point during the stated academic period. Learners starting more than one Apprenticeship will appear more than once.
+3. Age for starts is based on age at the start of the programme.
+4. Age for enrolments is based on age at the start of the programme.
+5. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+6. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+7. Science, technology, engineering, and mathematics (STEM) subjects include those in the Construction, Planning and the Built Environment, Engineering and Manufacturing Technologies, Information and Communication Technology, and Science and Mathematics sector subject areas.
+8. Ethnic minorities do not include white minorities.
+9. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+
+
+Traineeships Geography - Starts by Region
+
+Filename: app-tship-regional-202223-q4.csv
+Geographic levels: National; Regional
+Time period: 2017/18 to 2022/23
+Content summary: Headline demographic breakdowns of traineeship starts
+
+Academic years: 2017/18 to 2022/23
+
+Indicators:  Traineeship starts
+
+Filters:  Region
+
+Variable names and descriptions for this file are provided below:
+
+Variable name       |  Variable description
+------------------  |  ------------------
+traineeship_starts  |  Traineeship Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of the traineeships started at any point during the stated academic period.
+3. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Outside of England and unknown' category.
+4. Geographies are taken from the National Statistics Postcode Lookup.
+
+
+Traineeships Full-year - Starts by Age, LLDD, Sex, Ethnicity
+
+Filename: app-tship-demographics-fullyear-202223-q4.csv
+Geographic levels: National
+Time period: 2019/20 to 2022/23
+Content summary: Full year demographic breakdowns of traineeship starts
+
+Academic years: 2019/20 to 2022/23
+
+Indicators: Traineeship starts
+
+Filters: Learner characteristics group (Ethnicity Major, LLDD flag, Age group, Sex)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name           |  Variable description
+----------------------  |  ----------------------
+learner_characteristic  |  Learner characteristic
+starts                  |  Traineeship starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of the traineeships started at any point during the stated academic period.
+3. Age is based on age as at 31 August of the academic year.
+4. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+5. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+6. White comprises white British, Gypsy or Irish Traveller, Irish, and any other white background.
+
+
+Traineeships Positive Destinations - Headlines
+
+Filename: traineeships_narts_headline.csv
+Geographic levels: National
+Time period: 2021/22
+Content summary: Traineeship national positive rate tables
+
+Academic year: 2021/22
+
+Indicators: Leavers, Completers, Positive Destinations, Retention Rate, Positive Destination Rate
+
+Filters: Age Group, Sex, Learning Difficulty Disability, Ethnicity Major, Minority Ethnic
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                   |  Variable description
+------------------------------  |  ------------------------------
+age_band                        |  Age Group
+completers                      |  Completers
+ethnicity_major                 |  Ethnicity Major
+learning_difficulty_disability  |  Learning Difficulty Disability
+leavers                         |  Leavers
+minority_ethnic                 |  Minority Ethnic
+positive_destination_rate       |  Positive Destination Rate
+positive_destinations           |  Positive Destinations
+retention_rate                  |  Retention Rate
+sex                             |  Sex
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Learner characteristics (such as sex, learners with learning difficulties and/or disabilities and ethnicity) are based upon self-declaration by the learner.
+4. Ethnicity categories have been aligned with the ethnicities recorded in the 2011 UK Census.
+5. Retention rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims completed divided by the number of leavers.
+
+
+Traineeships Positive Destinations - By Provider
+
+Filename: traineeships_narts_provider.csv
+Geographic levels: Provider
+Time period: 2021/22
+Content summary: Traineeship national positive rate tables
+
+Academic year: 2021/22
+
+Indicators: Leavers, Completers, Positive Destinations, Retention Rate,  Positive Destination Rate
+
+Filters: Age Group
+
+Variable names and descriptions for this file are provided below:
+
+Variable name              |  Variable description
+-------------------------  |  -------------------------
+age_band                   |  Age group
+completers                 |  Completers
+leavers                    |  Leavers
+positive_destination_rate  |  Positive Destination Rate
+positive_destinations      |  Positive Destinations
+retention_rate             |  Retention Rate
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Retention rates are based on the individual aims that were successfully completed in the relevant year (the Hybrid End Year). They are calculated as the number of learning aims completed divided by the number of leavers.
+
+
+Traineeships Providers - Starts by Provider name, UKPRN
+
+Filename: app-tship-provider-202223-q4.csv
+Geographic levels: Provider
+Time period: 2017/18 to 2022/23
+Content summary: Breakdown of traineeship starts by individual provider
+
+Academic years: 2017/18 to 2022/23
+
+Indicators:  Starts
+
+Filters: Provider name (with UKPRN)
+
+Variable names and descriptions for this file are provided below:
+
+Variable name       |  Variable description
+------------------  |  ------------------
+traineeship_starts  |  Traineeship starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Total starts are the count of the traineeships started at any point during the stated academic period.
+3. UK Provider Reference Number (UKPRN) is shown after the provider name.
+
+
+Traineeships -  Starts, Completions, Conversion Rate by Start Quarter, Age
+
+Filename: app-tship-start-comp-conv-2324-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2022/23
+Content summary: Headline demographic breakdowns of traineeship starts.
+
+Academic year: 2014/15 to 2022/23
+
+Indicators:   Traineeship starts, Traineeship completions, Traineeship completion rate, Apprenticeship starts following traineeship, Conversion rate into apprenticeship
+
+Filters: Age group, Traineeship start quarter
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  --------------------------------------
+age_group              |  Age group
+apprenticeship_starts  |  Apprenticeship starts following t'ship
+completion_rate        |  Traineeship completion rate
+conversion_rate        |  Conversion rate into apprenticeship
+tship_completions      |  Traineeship completions
+tship_start_qtr        |  T'ship start quarter
+tship_starts           |  Traineeship starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and 'low' indicates a base value of fewer than 5. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. 'low' indicates a percentage below 0.5%. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+3. Total starts are the count of the traineeships started at any point during the stated academic period.
+4. Age is based on age as at 31 August of the academic year.
+
+
+Underlying charts data
+
+Filename: data-for-graphs-2223-final-2023-11-28.csv
+Geographic levels: National
+Time period: 2005/06 to 2022/23
+Content summary: Historical time series of headline adult (19+) further education and skills learner participation, containing breakdowns by provision type and in some cases level. Also includes some all age apprenticeship participation figures.
+
+Academic years: 2005/06 to 2022/23
+
+Indicators: Participation
+
+Filter: Provision type, Age group, Level
+
+Variable names and descriptions for this file are provided below:
+
+Variable name   |  Variable description
+--------------  |  --------------
+age_group       |  Age group
+level           |  Level
+participation   |  Participation
+provision_type  |  Provision type
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 100 and 'low' indicates a base value of fewer than 50. Where data shows 'x' this indicates data is unavailable, 'z' indicates data is not applicable, and 'c' indicates data is suppressed.
+2. Participation is the count of learners that participated at any point during the stated academic period. Learners undertaking more than one course will appear only once in the grand total.
+3. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+4. Age is based on age as at 31 August of the academic year.
+5. The Single Individualised Learner Record (SILR) data collection was introduced from the 2011/12 academic year onwards. This means figures for 2011/12 onwards are not comparable to earlier years. See the methodology document for more information.

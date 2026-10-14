@@ -1,0 +1,698 @@
+Apprenticeships and traineeships
+Academic year 2019/20
+
+Description
+
+---
+
+Coverage
+
+---
+
+File formats and conventions
+
+---
+
+Data files
+
+Annual headlines - detailed series
+
+Filename: app-annual-detailed-1920-q4-20201125.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+-------------  |  ---------------------
+achievements   |  Achievements
+age_group      |  Age
+funding_type   |  Funding Type
+level          |  Level
+participation  |  Learner Participation
+starts         |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age for apprenticeship starts and achievements is based on age at the start of the programme
+3. 2019/20 apprenticeship starts supported by ASA levy funds are currently classed as provisional and an amended methodology has been applied to this year only. Therefore, 2019/20 figures are not directly comparable to previous years. See the ‘About these statistics’ section for more information
+4. Age for apprenticeship participation is based on age as at 31 August of the academic year
+5. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+6. Participation is the count of learners that participated at any point during the year. Learners undertaking more than one course will appear only once in the grand total.
+7. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Annual headlines - summary
+
+Filename: app-annual-summary-1920-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+---------  |  ----------------------
+Attribute  |  Summary characteristic
+starts     |  Starts
+starts_PC  |  Starts %
+
+Footnotes:
+
+1. Age is calculated based on age at the start of the programme
+2. 2019/20 apprenticeship starts supported by ASA levy funds are currently classed as provisional and an amended methodology has been applied to this year only. Therefore, 2019/20 figures are not directly comparable to previous years. See the ‘About these statistics’ section for more information
+3. Volumes are rounded to the nearest 100 and '~' indicates a base value of fewer than 50
+4. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+5. Percentages are rounded to one decimal place and calculated on unrounded volumes. '~' indicates a percentage below 0.5%
+
+
+Apprenticeship Service - commitments
+
+Filename: app-monthly-commitments-1920-nov-20201123.csv
+Geographic levels: National
+Time period: 2020 November
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  --------------------
+age_group            |  Age group
+commitments          |  Commitments
+latest_levy_status   |  Latest levy status
+level                |  Apprenticeship level
+payment_status       |  Payment status
+start_academic_year  |  Start academic year
+start_month          |  Start month
+transfer_flag        |  Transfer flag
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Fully agreed commitments include commitments for which funding payments are complete, along with those that are actively being funded
+3. The levy-status of a commitment is based on the latest known status of the corresponding apprenticeship service account. This means that historical commitments may change their levy status if the apprenticeship service account was to subsequently change their status
+4. Commitments may be recorded on the Apprenticeship Service system after the training start date has passed and therefore data should be treated as highly provisional
+
+
+Apprenticeship Service - commitments - December 2020 update
+
+Filename: 2020-12_app-monthly-commitments.csv
+Geographic levels: National
+Time period: 2020 December
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  --------------------
+age_group            |  Age group
+commitments          |  Commitments
+latest_levy_status   |  Latest levy status
+level                |  Apprenticeship level
+payment_status       |  Payment status
+start_academic_year  |  Start academic year
+start_month          |  Start month
+transfer_flag        |  Transfer flag
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Fully agreed commitments include commitments for which funding payments are complete, along with those that are actively being funded
+3. The levy-status of a commitment is based on the latest known status of the corresponding apprenticeship service account. This means that historical commitments may change their levy status if the apprenticeship service account was to subsequently change their status
+4. Commitments may be recorded on the Apprenticeship Service system after the training start date has passed and therefore data should be treated as highly provisional
+
+
+Charts
+
+Filename: data-for-graphs-1920-20201120.csv
+Geographic levels: National
+Time period: 2005/06 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name     |  Variable description
+----------------  |  --------------------------------
+19+_apps          |  Adult Apprenticeships
+19+_cl            |  Adult Community learning
+19+_eandt         |  Adult Education & training
+19+_fes           |  Adult FE & skills
+19+_fes_f4        |  Adult FE & skills - Level 4+
+19+_fes_fl2       |  Adult FE & skills - Full Level 2
+19+_fes_fl3       |  Adult FE & skills - Full Level3
+app_advanced      |  Apprenticeships - Advanced
+app_higher        |  Apprenticeships - Higher
+app_intermediate  |  Apprenticeships - Intermediate
+apps_all          |  All age Apprenticeships
+
+Footnotes:
+
+1. Age for apprenticeship participation is based on age as at 31 August of the academic year
+2. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+3. Participation is the count of learners that participated at any point during the year. Learners undertaking more than one course will appear only once in the grand total.
+
+
+Duration, planned length of stay and length of employment
+
+Filename: app-duration-staylength-emplength-1920-20201116.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  --------------------------------------
+age_summary            |  Age group
+apps_level_detailed    |  Apprenticeship detailed level
+avg_expected_duration  |  Average expected duration (days)
+length_employment      |  Length of employment
+planned_length_stay    |  Planned length of stay
+starts                 |  Starts
+starts_for_duration    |  Starts (used in duration calculations)
+
+Footnotes:
+
+1. Age is calculated based on age at the start of the programme
+2. Expected duration is based on learning start date and planned end date as recorded on the ILR. Re-starting learners who may have returned from a planned break are excluded
+3. Apprenticeships of less than 12 months include those where prior attainment is taken into account hence the required amount of training is reduced
+4. Apprenticeship starts are rounded to the nearest 100
+5. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+6. Length of Employment is based on the First Day of Learning with the current employer as recorded in the ILR
+
+
+Find an apprenticeship adverts and vacancies - December 2020
+
+Filename: app-vacancies-adverts-2020-dec.csv
+Geographic levels: National
+Time period: 2018/19 to 2020/21
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+---------  |  ---------
+Adverts    |  Adverts
+Level      |  Level
+Month      |  Month
+Vacancies  |  Vacancies
+
+Footnotes:
+
+1. The 2020/21 academic year only currently contains 4 months worth of data, whereas previous years are full academic years
+2. Level is as declared by the user placing the advert and does not necessarily align with the definition of level we publish elsewhere. Higher apprenticeships here include those declared as 'Higher' and 'Degree' in the advert. Degree apprenticeships here are those higher apprenticeships at level 6 or 7 apprenticeships declared as "Degree". Elsewhere we define a degree apprenticeships as a level 6 or 7 apprenticeship with a mandatory degree component that is required for successful achievement of the apprenticeship
+3. A vacancy is a unique opportunity to undertake an apprenticeship with an employer and the number of vacancies provides a count of apprenticeship vacancies published on FAA in a particular period
+4. The number of vacancies could include some over-counting as it may be possible for a vacancy to have previously been advertised and some vacancies can be extended
+5. The number of adverts does not provide a true measure of adverts for apprenticeships because many are not advertised through the Find An Apprenticeship website, therefore the measure represents a subset of the total number available across the marketplace as a whole
+6. The number of vacancies does not provide a true measure of vacancies for apprenticeships because many are not advertised through the Find An Apprenticeship website, therefore the measure represents a subset of the total number available across the marketplace as a whole
+7. Figures are rounded to the nearest 10. Data that are not yet available are indicated by a z
+8. Adverts are vacancy notices and will include at least one apprenticeship vacancy with an employer (one advert could potentially include a large number of individual vacancies)
+
+
+Geographical breakdowns - detailed (1 year)
+
+Filename: app-geography-detail-1920-q4-20201116.csv
+Geographic levels: Local authority district; Regional
+Time period: 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  ---------------------
+achievements     |  Achievements
+age_summary      |  Age group
+apps_level       |  Apprenticeship level
+ethnicity_group  |  Ethnicity group
+gender           |  Gender
+ssa_t1_desc      |  Subject area (tier 1)
+starts           |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age is calculated based on age at the start of the programme
+3. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Other' category.
+4. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of April 2019
+5. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Geographical breakdowns - latest regional summary
+
+Filename: app-geography-summary-1920-q4-20201125.csv
+Geographic levels: Regional
+Time period: 2017/18 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name  |  Variable description
+----------  |  --------------------
+apps_level  |  Apprenticeship level
+starts_sr   |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 100 and '~' indicates a base value of fewer than 50
+2. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Other' category.
+3. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of April 2019
+
+
+Geographical breakdowns - PCON and LAD participation
+
+Filename: app-geography-participation-1920-q4.csv
+Geographic levels: Local authority district; Parliamentary constituency
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name   |  Variable description
+--------------  |  ---------------------------------------------
+adv_learners    |  Participation at advanced level (Aug-Jul)
+age_summary     |  Age group
+gender          |  Gender
+high_learners   |  Participation at higher level (Aug-Jul)
+int_Learners    |  Participation at intermediate level (Aug-Jul)
+total_learners  |  Total Participation (Aug-Jul)
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age for apprenticeship participation is based on age as at 31 August of the academic year
+3. Geography is based upon the home postcode of the learner. Where the postcode is outside of England or not known it is included in the 'Other' category.
+4. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+5. Geographies are taken from the National Statistics Postcode Lookup based on boundaries as of April 2019
+6. Participation is the count of learners that participated at any point during the year. Learners undertaking more than one course will appear only once in the grand total.
+7. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Learner characteristics - deprivation
+
+Filename: app-learner-deprivation-part-1920-q4-20201125.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  ---------------------
+advanced_learners      |  Advanced Learners
+age_group              |  Age Group
+age_youth_adult        |  Age (under 19/19+)
+higher_learners        |  Higher Learners
+intermediate_learners  |  Intermediate Learners
+learner_deprivation    |  Learner Deprivation
+participation          |  Participation
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age for apprenticeship participation is based on age as at 31 August of the academic year
+3. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+4. Participation is the count of learners that participated at any point during the year. Learners undertaking more than one course will appear only once in the grand total.
+5. Indices of Multiple Deprivation (IMD) quintiles from 2014/15 to 2018/19 are based on the 2015 IMD rank of the learner's home postcode. IMD quintiles for 2019/20 are based on the 2019 IMD rank of the learner's home postcode.
+6. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Learner characteristics - deprivation by starts
+
+Filename: app-learner-deprivation-starts-1920-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  ---------------------
+age_summary          |  Age group
+age_youth_adult      |  Age (under 19/19+)
+apps_level           |  Apprenticeship level
+learner_home_depriv  |  Learner Deprivation
+ssa_t1_desc          |  Subject area (tier 1)
+starts               |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age is calculated based on age at the start of the programme
+3. Indices of Multiple Deprivation (IMD) quintiles from 2014/15 to 2018/19 are based on the 2015 IMD rank of the learner's home postcode. IMD quintiles for 2019/20 are based on the 2019 IMD rank of the learner's home postcode.
+4. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Learner characteristics - detailed series
+
+Filename: app-learner-detailed-1920-q4-20201125.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name       |  Variable description
+------------------  |  ---------------------
+achievements        |  Achievements
+age_summary         |  Age Group
+age_youth_adult     |  Age Group U19 Adult
+bame                |  BAME
+ethnicity_detailed  |  Detailed Ethnicity
+ethnicty_group      |  Ethnic Group
+gender              |  Gender
+level               |  Level
+lldd                |  LLDD
+participation       |  Learner Participation
+starts              |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age for apprenticeship starts and achievements is based on age at the start of the programme
+3. Age for apprenticeship participation is based on age as at 31 August of the academic year
+4. Participation at intermediate, advanced and higher levels is a count of learners that participated at those levels at any point during the year. Learners undertaking more than one course will only appear once at each level but can appear in the count at more than one level.
+5. Participation is the count of learners that participated at any point during the year. Learners undertaking more than one course will appear only once in the grand total.
+6. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Learner characteristics - latest headline summary
+
+Filename: app-learner-summary-1920-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name   |  Variable description
+--------------  |  ----------------------
+Attribute       |  Summary characteristic
+starts          |  Starts
+starts_percent  |  Starts %
+
+Footnotes:
+
+1. Age is calculated based on age at the start of the programme
+2. Volumes are rounded to the nearest 100 and '~' indicates a base value of fewer than 50
+3. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+4. Percentages are rounded to one decimal place and calculated on unrounded volumes. '~' indicates a percentage below 0.5%
+5. Percentages for learner characteristics include those learners where the characteristic is known. ‘Not known/not provided’ categories are excluded from the calculation.
+
+
+Learner characteristics - learning difficulties and-or disability
+
+Filename: app-learner-lldd-1920-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name    |  Variable description
+---------------  |  ---------------------
+achievements     |  Achievements
+age_summary      |  Age Group
+age_youth_adult  |  Age Group U19 Adult
+bame             |  BAME
+level            |  Level
+lldd             |  LLDD
+lldd_primary     |  LLDD Primary
+participation    |  Learner Participation
+starts           |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age for apprenticeship starts and achievements is based on age at the start of the programme
+3. A learner may record multiple LLDD categories but must indicate which of these is the primary disability, difficulty or health problem. Overall ‘Primary LLDD and health problem’ totals may not match the main LLDD figures
+4. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Monthly apprenticeship starts
+
+Filename: app-monthly-starts-1920-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name         |  Variable description
+--------------------  |  ------------------------------------------
+age_summary           |  Age-group
+funding_type          |  Funding type
+levels_and_standards  |  Apprenticeship level and overall standards
+start_month           |  Start month
+starts                |  Starts
+
+Footnotes:
+
+1. Age is calculated based on age at the start of the programme
+2. 2019/20 apprenticeship starts supported by ASA levy funds are currently classed as provisional and an amended methodology has been applied to this year only. Therefore, 2019/20 figures are not directly comparable to previous years. See the ‘About these statistics’ section for more information
+3. Volumes are rounded to the nearest 100 and '~' indicates a base value of fewer than 50
+4. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Providers - latest headline summary
+
+Filename: app-provider-summary-1920-q4.csv
+Geographic levels: National
+Time period: 2017/18 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name   |  Variable description
+--------------  |  -----------------
+apps_level      |  Level
+provider_type   |  Provider Type
+starts          |  Starts
+starts_percent  |  Starts Percentage
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 100 and '~' indicates a base value of fewer than 50
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. '~' indicates a percentage below 0.5%
+
+
+Public sector target - summary
+
+Filename: app-pubsec-summary-1920-20201118.csv
+Geographic levels: National
+Time period: 2017-18 to 2019-20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  -------------------------------------------------------------------
+app_end                |  Apprentices at end of period (thousands)
+app_new                |  New apprentices in period (thousands)
+app_new_cumulative     |  Cumulative new apprentices since April 2017 (thousands)
+app_prior              |  Apprentices prior to period (thousands)
+bodies                 |  Number of employers included in period
+emp_end                |  Headcount at end of period (thousands)
+emp_new                |  New employees in period (thousands)
+emp_prior              |  Headcount prior to period (thousands)
+emp_prior_cumulative   |  Cumulative headcount since April 2017 (thousands)
+pct_app_end            |  Apprentices % at end of period
+pct_app_new            |  % of new employees who were apprentices in period
+pct_app_prior          |  Apprentices % prior to period
+pct_target_cumulative  |  Average % of employees starting apprenticeship (since 1 April 2017)
+pct_target_inyr        |  % of employees starting apprenticeships in period
+sub_sector             |  Sub-sector
+
+Footnotes:
+
+1. New apprentices includes employees who were already working for the body before beginning their apprenticeship, as well as new apprentice hires
+2. Sub-sectors have been assigned based on a mapping of Apprenticeship Service account names to public sector bodies
+3. Headcount and apprentice numbers are rounded to the nearest 100
+4. Staff in schools maintained by a Local Authority are included within the figures for the Local Authority, not in the 'schools' category
+5. The Civil Service is covered by a single return compiled by the Cabinet Office.
+6. Percentages are rounded to one decimal place and calculated based on unrounded volumes
+
+
+Subjects and levels - apprenticeship levy
+
+Filename: app-subject-levy-1920-q4-20201106.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  ------------------------------
+achievements_sr      |  Achievements
+age_summary          |  Age group
+age_youth_adult      |  Age (under 19/19+)
+apps_level           |  Apprenticeship level
+gender               |  Gender
+levy_supported_flag  |  Levy Supported Flag
+lldd                 |  Learning difficulty/disability
+starts               |  Starts
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age is calculated based on age at the start of the programme
+3. 2019/20 apprenticeship starts supported by ASA levy funds are currently classed as provisional and an amended methodology has been applied to this year only. Therefore, 2019/20 figures are not directly comparable to previous years. See the ‘About these statistics’ section for more information
+4. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+
+
+Subjects and levels - detailed series
+
+Filename: app-subject-detailed-1920-q4-20201125.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  ----------------------
+achievements         |  Achievements
+aim_enrolments       |  Enrolments
+apps_level           |  Level
+apps_level_detailed  |  Detailed Level
+level_6plus          |  Level 6 plus
+level_degree         |  Degree
+ssa_t1_desc          |  Sector Subject Area T1
+ssa_t2_desc          |  Sector Subject Area T2
+starts               |  Starts
+std_fwk_flag         |  Framework / Standard
+stem                 |  STEM
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Level 6+ combines figures for apprenticeships at level 6 and level 7 which includes degree apprenticeships
+3. Degree apprenticeships are defined as apprenticeship standards on the 'Search the Apprenticeship Standards' website with a status of ‘Integrated' or ‘Non-Integrated' Degree plus any frameworks where degrees are mandatory for completion
+4. STEM subjects include those in construction, engineering, information and communication technology and science and mathematics subject areas
+
+
+Subjects and levels - latest headline summary
+
+Filename: app-subject-summary-1920-q4-20201110.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name         |  Variable description
+--------------------  |  -------------------
+achievements          |  Achievements
+achievements_percent  |  Achievements %
+ssa_t1_desc           |  Sector Subject Area
+starts                |  Starts
+starts_percent        |  Starts %
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 100 and '~' indicates a base value of fewer than 50
+2. Percentages are rounded to one decimal place and calculated on unrounded volumes. '~' indicates a percentage below 0.5%
+
+
+Subjects and levels - learner demographics
+
+Filename: app-subject-demographics-1920-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name        |  Variable description
+-------------------  |  ------------------------------
+age_detailed         |  Age group (detailed)
+apps_level_detailed  |  Apprenticeship detailed level
+bame                 |  BAME learners
+gender               |  Gender
+lldd                 |  Learning difficulty/disability
+ssa_t1_desc          |  Subject area (tier 1)
+starts               |  Starts
+stem                 |  STEM subjects flag
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age is calculated based on age at the start of the programme
+3. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+4. STEM subjects include those in construction, engineering, information and communication technology and science and mathematics subject areas
+
+
+Subjects and levels - standards and frameworks
+
+Filename: app-subject-standards-1920-q4-20201125.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name            |  Variable description
+-----------------------  |  -------------------------
+achievements             |  Achievements
+age_summary              |  Age Group
+apps_level_detailed      |  Detailed Level
+framework_standard_name  |  Framework / Standard name
+starts                   |  Starts
+std_fwk_code             |  Framework / Standard Code
+
+Footnotes:
+
+1. Volumes are rounded to the nearest 10 and '~' indicates a base value of fewer than 5 but greater than 0
+2. Age is calculated based on age at the start of the programme
+3. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+4. Frameworks are reported as per SASE (Specification of Apprenticeship Standards for England) description
+
+
+Traineeships - latest starts, completions and conversions to apprenticeships
+
+Filename: app_tship-start-comp-conv-1920-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name          |  Variable description
+---------------------  |  --------------------------------------
+age_group              |  Age group
+apprenticeship_starts  |  Apprenticeship starts following t'ship
+completion_rate        |  Traineeship completion rate
+conversion_rate        |  Conversion rate into apprenticeship
+tship_completions      |  Traineeship completions
+tship_start_qtr        |  T'ship start quarter
+tship_starts           |  Traineeship starts
+
+Footnotes:
+
+1. Age is based on age as at 31 August of the academic year
+2. Volumes are rounded to the nearest 100 and '~' indicates a base value of fewer than 50
+3. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
+4. Percentages are rounded to one decimal place and calculated on unrounded volumes. '~' indicates a percentage below 0.5%
+
+
+Traineeships - learner demographics
+
+Filename: app-tship-demographics-1920-q4.csv
+Geographic levels: National
+Time period: 2014/15 to 2019/20
+Content summary: In progress
+
+Variable names and descriptions for this file are provided below:
+
+Variable name           |  Variable description
+----------------------  |  ------------------------------
+learner_characteristic  |  Learner characteristic summary
+starts                  |  Traineeship starts
+
+Footnotes:
+
+1. Age is based on age as at 31 August of the academic year
+2. Volumes are rounded to the nearest 100 and '~' indicates a base value of fewer than 50
+3. Age, gender, learners with learning difficulties and/or disabilities and ethnicity are based upon self-declaration by the learner
